@@ -1,0 +1,19 @@
+[cred
+[pmid
+may 16, 2178
+[ssprite18_INTRO0
+[caqua
+[pbottom
+far from earth, a distant sun rises over the desert planet seche
+below, a hoverskid flashes across the desert, on its way home.
+the pilot, ric velasquez, looks forward to seeing his daughter after several long months of garrison duty...
+[oobj_credits
+[ssprite19_INTRO1
+just seconds away from the hangar, disaster strikes.
+a burst of ion cannon fire tears the ship apart...
+[ssprite20_INTRO2
+[cblack
+[pmid
+ric velasquez is killed instantly in the fiery explosion...
+... and his daughter watches from the hangar as her father dies
+[e
