@@ -1,0 +1,5071 @@
+
+.cpt. velasquez
+qlt. striker
+
+q 
+q  we"ve crossed into kolor"s dark side, captain.
+q 
+
+. 
+.  keep this crap-can close to the ground.  the moon"s natural surface
+.magnetosphere should inhibit the vulture"s radar.
+. 
+
+q 
+q  aye, captain.
+q 
+
+flt. koth
+f 
+f  sssensorsss detect ssseveral ion trailsss moving acrosss lunar 
+flandssscape.  probably ssskidsss.
+f 
+
+. 
+.  what"s our distance from vultkolor?
+. 
+
+f 
+f  sssixty kilovartsss.
+f 
+
+. 
+.  conduct a topographic sweep for sechian mining facilities, and scan
+.the frontier for power signatures.  we need a base with a landing 
+.station.  something that"s been shut down or abandoned.
+. 
+
+f 
+f  aye, captain.
+f 
+
+
+d
+
+b.o.b.
+.cpt. velasquez
+
+ 
+  d-d-damn t.d. p-p-pilots!  where d-d-did they learn to f-f-fly?
+ 
+
+. 
+.  what did we hit?
+. 
+
+qlt. striker
+q 
+q  we had a power surge in the shuttle"s port thruster.  sign of age.
+qnothing serious.
+q 
+
+
+d
+
+blt. nemecek
+~Wlt. junior ikona
+
+b 
+b  i"m tired of following orders from that cyborg.
+b 
+
+W 
+W  what the hell are we doing out here?  this is nuts, nem!  this place
+Wain"t safe!  damn vultures are crawlin" all over the damn galaxy!  they
+Wvaped the whole damn planet!
+W 
+
+b 
+b  get a grip, ikona.  we"ve got to stay cool about this and think it out.
+bif we stay, the vultures"ll be using us to wipe their butts!  and you 
+bknow velasquez - she doesn"t give a damn about anyone... especially us.
+b 
+
+W 
+W  velasquez don"t care about nothin", nem!  she vaped noyce and killigan
+Wlike some kinda" scum!  geez, nem - i damn well liked killigan!
+W 
+
+b 
+b  i say we snag this ship and get the hell out of here.
+b 
+
+W 
+W  good thinkin"!  let"s make like a bug and bug out!
+W 
+
+
+d
+
+qlt. striker
+.cpt. velasquez
+
+q 
+q  i"ve found what looks like an abandoned kolorite mine.  heading 0-2-7,
+qdistance 6.61 kilovarts.
+q 
+
+. 
+.  what about a landing platform?
+. 
+
+q 
+q  there"s one in the side of a crater about 10 hectads from the mining
+qstation.  the two are linked by an access corridor.
+q 
+
+. 
+.  any power emanations?
+. 
+
+q 
+q  nada.
+q 
+
+. 
+.  life signs?
+. 
+
+q 
+q  zero.  the landing pit looks damaged but i think we can land on it.
+q 
+
+. 
+.  don"t think.  you"ll burst your brain cell.
+. 
+q 
+q  don"t you mean brain cells?
+q 
+
+. 
+.  you mean you have more than one?
+. 
+
+q 
+q  very funny.
+q 
+
+flt. koth
+. 
+.  koth - chart the surrounding landscape, then land this piece of crap.
+.we"ve got a base to secure.
+. 
+
+f 
+f  yesss, captain.
+f 
+
+
+d
+
+&commander kovia
+6general kreel
+
+& 
+&  we"ve received a zeta-priority transmission from the capital city on
+&vulturnus.  the message is scrambled by a level one security cypher.  i
+&thought you"d like to know.
+& 
+
+6 
+6  don"t think, kovia.  it worries me.  divert the transmission to my
+6quarters, and this time, secure the channel.
+6 
+
+!
+& 
+&  secure it yourself!
+& 
+
+
+d
+
+.cpt. velasquez
+b.o.b.
+
+ 
+  doesn"t l-l-look like m-m-much.
+ 
+
+. 
+.  you"re one to talk.  has beta-team completed its security sweep of the
+.station"s sublevels?
+. 
+
+ 
+  those l-l-levels have b-b-been flooded with k-k-kolorite.
+ 
+
+. 
+.  i don"t care if they"ve been flooded with sewage.  tell those shitheads
+.to use an ion dispersion screen if they have to.  where"s striker?
+. 
+
+ 
+  l-l-level two, w-w-with officer n-n-nemecek.
+ 
+
+. 
+.  don"t let those two idiots blow up the power systems trying to patch
+.the security grid!  and while you"re down there, get the damned heat
+.turned on!  and tell carl to prepare my stiletto for recon duty.
+. 
+
+ 
+  recon d-d-duty?
+ 
+
+. 
+.  i"m taking the first patrol.  tell sova and nemecek they"ll be flying
+.a second patrol to survey the western trenches in 85 radians.  i"ll 
+.leave you to supervise repairs.  clear?
+. 
+
+ 
+  i have to t-t-tell you s-s-something about n-n-nemecek...
+ 
+. 
+.  save it.  i"ve got enough on my mind.  and b.o.b. -
+. 
+ 
+  y-y-yes?
+ 
+
+. 
+.  fix that damn stutter!
+. 
+
+ 
+  i"ll t-t-try.
+ 
+
+
+d
+
+.cpt. velasquez
+9dispatcher
+
+9 
+9  the security grid"s still down, vel.  striker says he can have it 
+9operational in three years, if we"re lucky.
+9 
+
+. 
+.  give striker three hours.  if he"s not done by then, shoot him.
+. 
+
+9 
+9  hey, my job"s to give pilots a hard time, remember?  killing pilots
+9is your department.
+9 
+
+. 
+.  watch it, carl.
+. 
+
+9 
+9  sorry, but you really picked one hell of a place for a picnic, vel.
+9all we need now are some insects.
+9 
+
+. 
+.  i"m talking to one.
+. 
+
+9 
+9  cruel, vel.  i just hope i remembered to replace the ion stabilizer
+9on that skid of yours.  be a shame if the old one suddenly falls off!
+9 
+
+. 
+.  listen, you sack of shit -
+. 
+9 
+9  oops.  looks like our comm-link is breaking up!  we can discuss this 
+9over dinner sometime.  dispatch out.
+9 
+
+
+d
+
+.cpt. velasquez
+9dispatcher
+
+9 
+9  vel, you"d better get up here, pronto.
+9 
+
+. 
+.  my name isn"t vel.  call me captain, dickwad!
+. 
+
+9 
+9  if you insist.  captain dickwad, will you please return to the
+9station immediately?
+9 
+
+. 
+.  you really piss me off.
+. 
+
+9 
+9  well here"s something else that"ll piss you off.  nemecek, ikona,
+9and several other t.d. officers have commandeered the mining shuttle.
+9 
+
+. 
+.  what?!  those k"r"roc shit bastards!  station an armed crew inside
+.the hangar bay, and don"t let the shuttle leave!  i"ll be there in
+.five radians.
+. 
+
+
+d
+É
+.cpt. velasquez
+qlt. striker
+
+. 
+.  is the shuttle still on the landing platform?
+. 
+
+q 
+q  who knows?  the stupid security cameras aren"t working properly,
+qcommunications are screwed, and i haven"t a clue what the hell"s 
+qgoing on out there!
+q 
+
+. 
+.  where"s our tech crew?
+. 
+
+q 
+q  you left them on the planet, remember?
+q 
+
+. 
+.  shut up, or i"ll send you back to get them.
+. 
+
+blt. nemecek
+b 
+b  well, if it isn"t captain cyborg.  we"re getting the hell off of 
+bthis rock, velasquez, and there"s nothing you can do to stop us.
+b 
+
+. 
+.  don"t come to me expecting a good-bye kiss, nemecek.  the least
+.you"ll get is a blaster to choke on.
+. 
+
+b 
+b  you may think you"ve got the whole vulture empire by the balls,
+bvelasquez.  i just wish i could see them vape your vanadium ass!
+b 
+
+qlt. striker
+. 
+.  does this station have any offensive systems?
+. 
+
+q 
+q  zilch.
+q 
+
+blt. nemecek
+b 
+b  you"ll never stop us, cyborg.
+b 
+
+~Wlt. junior ikona
+W 
+W  we"re buggin" out, cap"n, and we"re takin" anyone who"ll come with
+Wus.
+W 
+
+blt. nemecek
+b 
+b  halo, tirion, jalkeus - none of them want to die fighting for you,
+bvelasquez.  no one"s that stupid.
+b 
+
+. 
+.  you are, if you think you can get anywhere in that obsolete piece
+.of shit.  face it nemecek.  you"re as dumb as dirt.
+. 
+
+b 
+b  vaya con dios, captain.  give general kreel our regards.
+b 
+
+. 
+.  get the hell off my moon.
+. 
+
+qlt. striker
+q 
+q  very diplomatic.
+q 
+
+. 
+.  i didn"t ask for your opinion.
+. 
+
+q 
+q  there is a bright side, of course.  just about everyone who hates you
+qis dead or gone.
+q 
+
+
+d
+Ê
+.cpt. velasquez
+qlt. striker
+
+. 
+.  i want full reports from all officers assigned to recon.  we need to
+.determine how much traffic moves through the area before we can begin
+.identifying strategic targets.
+. 
+
+q 
+q  the communications are working, sort of.  it might interest you to
+qknow that we"ve picked up a coded transmission from a vulture science
+qoutpost near the kaluvus crater.
+q 
+
+. 
+.  and?
+. 
+
+q 
+q  there"s been an accident.  the outpost has requested an emergency 
+qshipment of medical supplies and trytherozine.  a convoy is leaving
+qfrom vultkolor within the hour.
+q 
+
+. 
+.  find out all you can about the shipment, then instruct sova and
+.kellogg to meet me in the hornet bay.  what"s the status of our 
+.security grid?
+. 
+
+È.cpt. velasquez
+Èqlt. striker
+. 
+.  damn power regulators!
+. 
+
+.cpt. velasquez
+qlt. striker
+q 
+q  you were saying something about the security grid?
+q 
+
+. 
+.  i don"t want excuses, striker.  i don"t care if you blow every
+.power circuit in the station!  i want that grid operational in one
+.hour.
+. 
+
+q 
+q  ensign trace is handling power regulation.
+q 
+
+. 
+.  trace couldn"t handle his penis if he had ten fingers on each hand!
+.let b.o.b. monitor communications - i want you to oversee power 
+.regulation from now on.  and take ian with you.  show him how to fuse a 
+.power emitter.
+. 
+
+q 
+q  ian?
+q 
+
+. 
+.  my son, you idiot.
+. 
+
+q 
+q  aye, captain.
+q 
+
+flt. koth
+. 
+.  have you completed the sub-level sweep?
+. 
+
+f 
+f  yesss, and we"ve found sssomething interesssting.
+f 
+
+
+d
+
+.cpt. velasquez
+\jekar
+
+. 
+.  who are you?  how did you get in here?
+. 
+
+\ 
+\  i am jekar.
+\ 
+
+flt. koth
+f 
+f  we found him and sssix other vulturesss on sssub-level two.
+f 
+
+\jekar
+\ 
+\  we were not expecting visitors from the planet.
+\ 
+
+. 
+.  our station scans detected no life signs.
+. 
+
+flt. koth
+f 
+f  it"sss posssible that kolorite gasss wasss inhibiting our 
+fsssensssorsss.
+f 
+
+. 
+.  take him to a detention chamber.
+. 
+
+f 
+f  what about the othersss?
+f 
+
+. 
+.  that depends.  prepare this one for interrogation.  i"ll decide what
+.to do to the others once i"ve destroyed that medical convoy.
+. 
+
+\jekar
+\ 
+\  please do not hurt us.  we intend you no harm.
+\ 
+
+. 
+.  what did you say?
+. 
+
+\ 
+\  we intend you -
+\ 
+. 
+.  look out that window, you bald-headed bastard!  you"ve destroyed
+.everything!  there"s nothing left for you to harm!  say something
+.like that to my face again, and i swear i"ll kill you!  i"ll blow
+.your goddamn head off!
+. 
+
+flt. koth
+. 
+.  get this piece of slime out of my office!
+. 
+
+
+d
+
+.cpt. velasquez
+9dispatcher
+
+9 
+9  the vulture medics should be in range by now, vel, but there"s
+9no way to know for sure.
+9 
+
+. 
+.  any information on the status of the vulture outpost?
+. 
+
+9 
+9  some sort of thermal explosion.  apparently they were drilling into
+9a subterranean magma layer when a theronide drilling tank blew up.
+9twelve people dead, twenty-five wounded.
+9 
+
+. 
+.  they"re not people.  they deserve to die.
+. 
+
+9 
+9  your opinion.
+9 
+
+. 
+.  it"s the only one that matters.  now clear me for departure.
+. 
+
+9 
+9  this isn"t a t.d. hangar, vel.  i can"t keep you here - even if i
+9wanted to.
+9 
+
+. 
+.  i"ll bear that in mind.
+. 
+
+
+d
+Ë
+.cpt. velasquez
+9dispatcher
+
+9 
+9  there"s been an accident, vel.
+9 
+
+. 
+.  forget to put on your diaper again?
+. 
+
+9 
+9  one of the power emitters ruptured inside the station subterminus.
+9trace is dead, and three other officers are critically wounded.
+9 
+
+. 
+.  what about ian?
+. 
+
+9 
+9  he"s in the med facility.  dr. livid wants to see you, immediately.
+9 
+
+
+d
+Ì
+4dr. diva livid
+.cpt. velasquez
+
+4 
+4  trace was dead on arrival.  an ionic energy discharge blew a hole
+4right through his chest.  kaufler was in the conduit when the 
+4explosion occured.  the fusion surge disintegrated him.
+4 
+
+. 
+.  what about my son?
+. 
+
+4 
+4  he"ll survive.  his radiation burns were minor, but i haven"t finished
+4treating him.  striker"s the same.  i"m not so optimistic about trixle.
+4i don"t have the radiation equipment i need to stabilize her condition.
+4 
+
+. 
+.  keep me apprised of her status, doctor.  i can"t afford to lose any
+.more pilots.
+. 
+
+4 
+4  i"m sorry if the explosion put a crimp in your plans for conquest!
+4your brief flicker of compassion is noted, captain, for all the good
+4it will do my patients!
+4 
+
+. 
+.  do you have a point to make, doctor?
+. 
+
+4 
+4  just thinking about destroying those medical trucks was stupid!
+4your obsession with killing vultures supercedes any concern you have
+4for the rest of us, and that appalls me.
+4 
+
+. 
+.  killing vultures is our business, doctor.  no one else can do it.
+.besides, there was no way to recover those med supplies intact!
+. 
+
+4 
+4  that"s an excuse.  i could have used those medical supplies, 
+4velasquez... and you tried to destroy them!
+4 
+
+. 
+.  what you need, doctor, is a shot of reality!
+. 
+
+4 
+4  what i need are bandages, hyposyringes, plasma infusers... not some
+4blast-happy biolubricated bovine-brained brigadier blowing away our
+4best chances of survival!  we are not machines that can be replaced!]
+4 
+
+. 
+.  i haven"t got time to argue, doctor.  you have a job to do, and so
+.do i.  let me know when you"ve completed the radiation treatments on
+.my son.
+. 
+
+4 
+4  be thankful your son"s injuries weren"t more severe.  he could"ve
+4died today, no thanks to you.  at this rate, you, me and b.o.b. will
+4be the only ones left in this forsaken department!
+4 
+
+. 
+.  i wouldn"t count on survivors, doctor - if there are any.
+. 
+
+
+d
+
+0general talon
+!ÿvulture technicians
+
+ÿ 
+ÿ  general - sensors detect a small vessel entering our long range
+ÿtactical grid.
+ÿ 
+
+0 
+0  load all weapons.  identify the ship.
+0 
+
+0 
+0  well?!
+0 
+
+ÿ 
+ÿ  unarmed shuttlecraft with low-yield ion screens.
+ÿ 
+
+0 
+0  not much of a target.  activate the ion dispersion and fire.
+0disable the shields with a low-level primary spread, then finish
+0them off with a high-level directed ion beam.
+0 
+
+
+d
+
+blt. nemecek
+~Wlt. junior ikona
+
+W 
+W  our shields just went dead!
+W 
+
+b 
+b  yeah, i noticed.
+b 
+
+W 
+W  say, nem, isn"t that a vulture ship?
+W 
+
+b 
+b  no, asswipe, it"s the pizza delivery boy!
+b 
+
+
+d
+
+0general talon
+Èÿ 
+
+0 
+0  excellent shot.  proceed on course to kolor.
+0 
+
+
+d
+
+\jekar
+.cpt. velasquez
+
+. 
+.  first question.  someone removed the powerflux inhibitor from the
+.primary fusion conduit in sub-level one.  were you responsible for
+.this act of sabotage?
+. 
+
+\ 
+\ 
+\  it was... unintentional.  we needed the inhibtor to repair another
+\damaged conduit on sub-level two.
+\ 
+
+. 
+.  unintentional?  maybe i should unintentionally flood your chamber
+.with concentrated kolorite!  the experience would be quite...
+.excruciating... for you, anyway.
+. 
+
+\ 
+\  the intention was not to cause injury.
+\ 
+
+. 
+.  you lying slug!  your deliberate sabotage killed three of my officers
+.and injured my son!
+. 
+
+\ 
+\  i"m sorry for your son... and your men.
+\ 
+
+. 
+.  i don"t want your sympathy, vulture.
+. 
+
+\ 
+\  contact vice-director selat in vultkolor.  he will tell you what 
+\we are... and why we are here.
+\ 
+
+. 
+.  i know what you are.  you"re fly-meat.  and frankly, scumsucker,
+.i don"t give a splattered shit why you"re here.
+. 
+
+\ 
+\  you must believe me.  we are not what we seem to be.
+\ 
+
+. 
+.  you said your name was jekar.  what is your military rank and 
+.current assignment?
+. 
+
+\ 
+\  i have no rank.  i am not with the military.
+\ 
+
+. 
+.  then why do you take orders from vice-director selat?
+. 
+
+\ 
+\  he is one of us.
+\ 
+
+. 
+.  actually, i figured he was president of the let"s all be friends
+.forever club, and he sent you here to give us free membership and
+.the keys to happyland!
+. 
+
+. 
+.  but let"s just cut the crap, jekar - i haven"t got the time.
+. 
+
+\ 
+\  we were not expecting your arrival.  we came here to hide.  we
+\are not your enemy, captain velasquez.  talk to vice-director
+\selat, and he will explain what we are.
+\ 
+
+. 
+.  but i already know who you are, jekar.  you"re a snivelling,
+.two-faced, intellect-deprived vulture vermin who"s quickly running
+.out of lifetime.  keeping that in mind, i want to know everything
+.you know about vulture operations on kolor.
+. 
+
+\ 
+\  i know nothing about vulture operations on kolor.
+\ 
+
+. 
+.  i see.  care for a drink of reactor coolant?  koth, do it.
+. 
+
+. 
+.  time"s running out, jekar.  you"ll be dead as dogshit in a matter
+.of minutes.
+. 
+
+b.o.b.
+ 
+  communications is picking up a scrambled transmission.
+ 
+
+. 
+.  another medical convoy?
+. 
+
+ 
+  no.  this one"s sent via coded sigma-wave... directly to this
+facility.
+ 
+
+\jekar
+\ 
+\  it"s vice-director selat!  only he knows we"re here.
+\ 
+
+
+d
+
+\jekar
+€vice-director selat
+
+€ 
+€  jekar, i have left vultkolor and will be arriving by hovertruck 
+€in twenty vulracs.  please prepare the facility for my arrival.
+€ 
+
+\ 
+\  everything is in order, vice-director.
+\ 
+
+€ 
+€  the leaders of the empire are converging on vultkolor.  generals
+€talon and marilith are expected to arrive within eight vulracs. 
+€we must begin the infiltration sooner than expected.
+€ 
+
+\ 
+\  we are prepared, vice-director.
+\ 
+
+€ 
+€  twenty vulracs, then.
+€ 
+
+.cpt. velasquez
+. 
+.  a convincing performance, jekar.  almost brought tears to my eyes.
+.good thing i didn"t have to blow your brains out to get it! 
+. 
+
+
+d
+
+.cpt. velasquez
+flt. koth
+
+f 
+f  captain velasssquez, i"ve brought vice-director selat.
+f 
+
+. 
+.  it"s about bloody well time.  send him in and wait outside.
+. 
+
+€vice-director selat
+€ 
+€  i"m not the monster you think i am, captain.  i am not a vulture
+€and neither is jekar or the others.
+€ 
+
+. 
+.  what are you then?  more rejects from the ramses" cloning lab?
+.ousted members of the i-wanna-be-a-krishna society?
+. 
+
+€ 
+€  i"m afraid you perplex me, captain.
+€ 
+. 
+.  a bent hangar would perplex you.
+. 
+
+€ 
+€  we are silatic life forms.  amorphic aliens that change appearance
+€by absorbing, imitating and mutating dna strands of other creatures.
+€ 
+
+. 
+.  what a load of k"r"roc shit.
+. 
+
+€ 
+€  our race was conquered by the vultures, much like yours.
+€ 
+
+. 
+.  look around, vapour-brain!  do we look conquered to you?
+. 
+
+€ 
+€  survivors of my world were scattered throughout the universe.  i 
+€came here, insinuated myself into the vulture"s echelon of command,
+€and now i use my influence to help others of my kind assimilate into
+€vulture society... by giving them dna to absorb.
+€ 
+
+. 
+.  nice sci-fi story.  what do i look like, a destitute network producer?
+. 
+
+€ 
+€  captain, please!  in less than twelve tamareks, the overlord himself
+€will set foot on kolor.  the warcruiser vortex is transporting him 
+€from the vulture homeworld.  the cruisers nightmare and malevolence
+€have already entered the sechian system, enroute to kolor.
+€ 
+
+. 
+.  i fail to see where this is leading.  get to the point, selat!
+. 
+
+€ 
+€  we intend to replace the overlord with a silatic duplicate, once
+€we acquire a sufficient sample of his dna.
+€ 
+
+b.o.b.
+ 
+  sorry to interrupt, sir, but i"ve interfaced with the vulture
+security net in vultkolor.
+ 
+
+. 
+.  what have you learned?
+. 
+
+ 
+  secnet has dispatched several armed skids to sweep the trenches for
+intruders.
+ 
+
+€vice-director selat
+€ 
+€  don"t look so surprised, captain.  what do you expect when you 
+€destroy a vulture medical convoy?
+€ 
+
+. 
+.  i expect silatic shitheads like you to keep their mouths shut.
+. 
+
+b.o.b.
+ 
+  silatic what?
+ 
+. 
+.  not you, buckethead.
+. 
+
+ 
+  s-s-sorry.  by the way, there"s a large consignment of crystalline
+bluerite moving through the trenches towards vultkolor.
+ 
+
+. 
+.  instruct kalen and selenar to ready three hornets for departure.
+.the convoy won"t get far.
+. 
+
+€vice-director selat
+€ 
+€  you cannot risk any further provocation!  this will only jeapordize
+€yourselves and our operation!
+€ 
+
+. 
+.  i don"t give a damn about your operation, selat.
+. 
+
+€ 
+€  you cannot fight violence with more violence, captain.  the only
+€hope for peace is --
+€ 
+.  spare me the "good samaritan" speech!  i"m not playing for peace!
+. 
+.  koth, escort this pile of vulture vomit to detention.  if he resists,
+.vape him.
+. 
+
+
+d
+
+.cpt. velasquez
+9dispatcher
+
+9 
+9  trixle"s dead, vel.  died of radiation poisoning at 08:50 hours.
+9 
+
+. 
+.  what about ian?
+. 
+
+9 
+9  diva says he"ll live.  striker, too.
+9 
+
+. 
+.  good.  when striker"s finished jacking off, tell him to repair that
+.fused conduit -- and tell him to keep his microscopic mind on what
+.he"s doing!  i want dr. livid to perform a genetic scan on the vulture
+.jekar.  inform me when the scan is complete.
+. 
+
+9 
+9  only if you say please!
+9 
+
+. 
+.  how"d you like your face turned inside out?!
+. 
+
+
+d
+
+.cpt. velasquez
+È.  
+
+. 
+.  damn headaches are getting bad!
+. 
+
+b.o.b.
+ 
+  sorry to disturb you, captain, but a large vulture ship has entered
+our detection grid.
+ 
+
+. 
+.  we"ve been over this a thousand times, you duranium dildo!  shut
+.down all power systems and alert the recon officers on patrol!
+. 
+
+ 
+  is there something wrong, cap --
+ 
+.  just go to hell!
+.  
+
+
+d
+
+.cpt. velasquez
+È  
+
+. 
+.  what the hell...?  what"s that passing over the station?
+. 
+
+. 
+.  damn.  that"s one big ship!  how in hell am i supposed to deal with it?
+. 
+
+YYric velasquez
+Y 
+Y  don"t let size intimidate you, marta.  the bigger they are, the 
+Yeasier they blow up.
+Y 
+
+. 
+.  father?!
+. 
+
+Y 
+Y  ever killed a bulgar?  damn things are ten feet tall, but a six-inch
+Yblade through the thumb kills one instantly!
+Y 
+
+. 
+.  how can i avenge your death... even a million deaths?
+. 
+
+. 
+Y  you could start by killing those shitheads in detention!
+Y 
+
+. 
+.  i want them to be vultures... i want to inflict pain on them.  to
+.make them suffer for what they did to you... satair... to everyone.
+. 
+
+Y 
+Y  that"s my little girl.  vape those vulture cowards!
+Y 
+
+. 
+.  i"m not your little girl!  go to hell!
+. 
+
+Z*commander satair
+* 
+*  don"t become one of them, velasquez.  you"re still more sechian than
+*cyborg.  remember that.  if the woman inside the machine is lost, then
+*all is lost.
+* 
+
+. 
+.  you"re ghosts!  you"re not real!  get out of my head!
+. 
+
+* 
+*  you cannot defeat an empire.
+* 
+
+. 
+.  they must pay for what they"ve done!
+. 
+
+Wscrewdriver
+ 
+  what you need is a selerian sunripper to clear the head.  think,
+velasquez!  if you cannot kill a billion vultures, what can you do?
+ 
+
+. 
+.  i said go to hell!  go to... arrrrgh!
+. 
+
+
+d
+
+.cpt. velasquez
+4dr. diva livid
+
+. 
+.  what the hell am i doing here?
+. 
+
+4 
+4  we found you passed out on the observation deck floor.
+4 
+
+. 
+.  i have to speak with vice-director selat -- now!
+. 
+
+4 
+4  you"re not going anywhere, captain.  i"ve surrounded this table with
+4a stasis field and administered a dose of letopterol to prevent you
+4from killing yourself.
+4 
+
+. 
+.  i"ll kill you if you don"t release me this instant!  your medicine
+.is neither requested nor required, doctor!  now let me do my damn job!
+. 
+
+4 
+4  i"m sure koth can manage things for the time being.
+4 
+
+. 
+.  that reptilian reject couldn"t manage a luggage store!
+. 
+
+4 
+4  then let me put this to you bluntly.  you"ve suffered a cerebral
+4hemorrhage -- a big one.  if this should happen again, cyborg or not,
+4you"ll be dead as desert dust.
+4 
+
+
+d
+
+.cpt. velasquez
+4dr. livid
+
+. 
+.  i have no intention of dropping dead, doctor.
+. 
+
+4 
+4  a pity.
+4 
+
+. 
+.  did you perform a genetic scan on jekar?
+. 
+
+4 
+4  your single-mindedness astonishes me, captain, but i haven"t got time
+4for a discussion right now.
+4 
+
+. 
+.  answer me, doctor, before i have you crammed inside a kolorite tank!
+. 
+
+4 
+4  genetically, jekar"s a vulture.  there, satisfied?  now lie there and
+4be quiet.
+4 
+
+. 
+.  what else?
+. 
+
+4 
+4  there were some minor genetic mutations in his chromazoa.  that 
+4suggests one of two possibilities: either jekar"s a lab-bred mutant,
+4or a coalescent entity has replicated the real jekar with virtual
+4genetic perfection.
+4 
+
+. 
+.  i want to see selat.
+. 
+
+4 
+4  sorry, captain, but that"s out of the question.
+4 
+
+
+d
+|
+€vice-director selat
+flt. koth
+
+€ 
+€  you must let me out of here!  i must return to vultkolor before i"m 
+€missed!  detaining me here only threatens the success of our operation!
+€ 
+
+f 
+f  i do not comply with vulture ssscum, ssselat.
+f 
+
+€ 
+€  i am not a vulture!
+€ 
+
+b.o.b.
+  dr. livid"s genetic scan would seem to support his claim.
+ 
+
+f 
+f  perhapsss... but i"ve never trusted doctors, either.
+f 
+
+€vice-director selat
+€ 
+€  it is vital that i speak with captain velasquez.  can you arrange it?
+€ 
+
+f 
+f  velasssquez no longer commands thisss facility.  you may addresss your
+fconcernssss to me.
+f 
+
+€ 
+€  i see.
+€ 
+
+b.o.b.
+ 
+  sir, sensors have just detected enemy skids entering our detection
+grid.
+ 
+
+€vice-director selat
+€ 
+€  director zargon has probably dispatched radar trucks to scan the
+€trenches for signs of intruders.  if they detect even the slightest
+€power emanations coming from this base...
+€ 
+f 
+f  tell ssstriker to deactivate the ssstation"s primary power emitters.
+f 
+
+b.o.b
+ 
+  shouldn"t we dispatch some skids... to find the trucks before they
+find us?
+ 
+
+f 
+f  do as i ssssay before i blassst you to bitsss.
+f 
+
+
+d
+
+4dr. diva livid
+È.    
+
+4 
+4  the power went out?!  shit!  the statis field!
+4 
+4 
+4 
+4 
+4 
+
+4 
+4 
+4 
+
+.lt. velasquez
+.lt. velasquez
+.lt. velasquez
+.lt. velasquez
+
+. 
+.  velasquez to security control... what the hell is going on?  what
+.happened to the power?
+. 
+
+b.o.b.
+ 
+  captain v-v-velasquez!  i thought y-y-you were --
+ 
+. 
+.  out of commision?  don"t count on it, hovernuts!
+. 
+
+ 
+  b-b-boy, this is a relief!
+ 
+
+. 
+.  who cut the main power without my authorization?
+. 
+
+ 
+  k-k-koth.  s-s-sensors detected three v-v-vulture radar trucks in
+the t-t-trenches.
+ 
+
+. 
+.  how many skids has that snake-skinned simpleton dispatched to ionize
+.the trucks?
+. 
+
+ 
+  uh, n-n-none, sir.  i t-t-told koth he should d-d-dispatch some
+skids, b-b-but --
+ 
+.  instruct sova and selenar to ready three hornets for immediate
+.departure.  tell koth to get his lizard legs off my desk and have selat
+.and jekar waiting in my office by the time i return.  if they"re not
+.there when i get back, tell that fork-tongued, fat-headed, ferret-faced
+.flatworm that i"ll skin him alive!
+. 
+
+ 
+  the d-d-doctor said you sh-shouldn"t --
+ 
+.  don"t make me pull your plug!
+. 
+
+
+d
+
+.cpt. velasquez
+9dispatcher
+
+9 
+9  you know, vel, you amaze me sometimes.
+9 
+
+. 
+.  a paperclip would amaze you, slimebrain.
+. 
+
+9 
+9  need i remind you that six hours ago you suffered a brain hemorrhage?
+9if this keeps up, you"ll be killing vultures long after you"re dead.
+9 
+
+. 
+.  i have no intention of dying just yet.
+. 
+
+9 
+9  well, if it"s not too much trouble, dr. livid wants to see you.  she"s
+9more than a bit concerned about your health right now.
+9 
+
+. 
+.  tell her to jump in a crater.
+. 
+
+9 
+9  and have my face ripped off?  sorry, vel, but you"ll have to tell her
+9yourself.  of course, i know a way guaranteed to cure almost any ailment.
+9i like to think of it as the "hands-on" medication.
+9 
+
+. 
+.  i"d rather screw a deckplate!
+. 
+
+
+d
+
+6general kreel
+!commander osyluth
+
+6 
+6  when are the other generals expected to arrive?  tell me before
+6i have you shot.
+6 
+
+! 
+!  my lord, the "nightmare" is due to arrive in eight hours.  the
+!malevolence has just passed the inner rim planet of nossos and should
+!reach orbit in two days.
+! 
+
+6 
+6  what about general orlok"s ship?
+6 
+
+! 
+!  the "vortex" has just entered the system.  we expect its arrival in
+!nine days.
+! 
+
+6 
+6  send a transmission to the "scavenger" and instruct commander kovia
+6to move the ship into high orbit around kolor.  i want general talon
+6held in space for as long as possible.
+6 
+
+! 
+!  yes, my lord.
+! 
+
+6 
+6  have your forces located the sechian renegades yet?
+6 
+
+! 
+!  no, my lord.  we have not yet verified the presence of sechian
+!renegades in the trenches.
+! 
+
+6 
+6  a sechian mining shuttle was detected leaving the planet"s atmosphere
+6prior to global sterilization.  our scans confirm it departed from the
+6dardra scrape in the northeastern quadrisphere.  do not tell me you 
+6can"t find any sechians in the trenches, commander!  they are there!
+6 
+
+! 
+!  the shuttle which landed on kolor has since departed for deep space,
+!my lord.  perhaps the sechians merely picked up supplies and left.
+!security believes that a splinter faction may be responsible --
+! 
+6  i am not asking for an opinion, commander osyluth!  even if i wanted
+6one, which i don"t, i wouldn"t consider asking an idiot like you!
+6 
+
+! 
+!  of course not, my lord.
+! 
+
+6 
+6  i don"t want to hear any more about splinter factions!  i want those
+6sechians found!  i want them ionized before the other generals arrive.
+6if these sechians continue to be a nuisance, commander, i will have you
+6and your entire squad jettisoned into space!  do i make myself clear?
+6 
+
+! 
+!  crystal clear, my lord.
+! 
+
+
+d
+
+.cpt. velasquez
+€vice-director selat
+
+€ 
+€  it is imperative that i return to vultkolor at once.
+€ 
+
+. 
+.  if i let you go, i risk violating the security of this station.
+.your ability to deceive others has gotten you this far, selat.
+.revealing our location to director zargon would certainly help to cement
+.your position within vulture chain of command.  don"t think for one
+.minute that i trust you with my life!
+. 
+
+€ 
+€  surely you"re convinced by now that i am not a vulture!
+€ 
+
+. 
+.  you may have convinced dr. livid, but i"m not some witless witch-doctor.
+.dr livid"s genetic scan hasn"t convinced me of anything.  you"d better
+.get used to this station, vice-director, because i"m not about to release
+.you from it.
+. 
+
+€ 
+€  then our mission has ended in failure.  zargon"s forces will eventually
+€find us, and the last remnants of two proud cultures will be destroyed
+€forever.
+€ 
+
+
+d
+
+.cpt. velasquez
+ ,ian velasquez
+
+. 
+.  where did you get that vulture helmet?  stop playing with it!
+. 
+
+, 
+,  one of the vultures gave it to me.  i wanna keep it.
+, 
+
+. 
+.  i said put it down.
+. 
+
+, 
+,  mom, is it okay if i talk to jekar?
+, 
+
+. 
+.  stay away from him.
+. 
+
+, 
+,  but he"s not a vulture.  he said so.  he says he"s from far away and
+,that he looks like a vulture to trick the other vultures, but that he"s
+,not really a vulture at all.
+, 
+
+. 
+.  what else did jekar tell you?
+. 
+
+, 
+,  that he"s a blob.
+, 
+
+. 
+.  is that all?
+. 
+
+, 
+,  jekar says he"s gonna turn into the biggest vulture of all!  jekar says
+,he"s gonna make the other vultures not fight us anymore.
+, 
+
+. 
+.  so that"s what he says...
+. 
+
+
+d
+
+.cpt. velasquez
+€vice-director selat
+
+. 
+.  how were you planning to explain your absence from vultkolor to 
+.director zargon?
+. 
+. 
+
+€  why would such information interest you?
+€ 
+
+. 
+.  just answer the damn question!
+. 
+
+€ 
+€  one of my duties as vice-director is to conduct routine inspections
+€of the crystalline bluerite mines along the moon"s darkside frontier.
+€when production lags, it is within my purvue to conduct surprise
+€inspections, especially when the frontier is plagued with rumors
+€concerning splinter factions.
+€ 
+
+. 
+.  jekar and the others were simply a ruse.  whenever you needed a reason
+.to leave the city, you ordered them to attack a transport convoy or
+.sabotage a bluerite mine.
+. 
+
+€ 
+€  more or less.  we never harmed anyone, of course.  our oath of 
+€non-violence forbids it.  jekar and the others would simply make their
+€presence known.
+€ 
+
+. 
+.  what"s your cover, selat?
+. 
+
+€ 
+€  if i were not your prisoner, captain velasquez, i would currently be
+€conducting a surprise inspection of a bluerite mining facility, searching
+€for possible saboteurs or splinter faction sympathizers.  under normal
+€circumstances, i"d find no evidence of either.
+€ 
+
+. 
+.  what reason would you have to prolong your absence from vultkolor?
+. 
+
+€ 
+€  assuming director zargon hadn"t guessed my true intentions, he might
+€assume i"d found something undesirable during my inspection.
+€ 
+
+. 
+.  what if there was an actual incident at the mining station during your
+.inspection?  a sabotage attempt, for instance.
+. 
+
+€ 
+€  you"re not thinking about --
+€ 
+.  answer the question!
+. 
+
+€ 
+€  i would be compelled to take control of the situation and report my
+€progress to director zargon.
+€ 
+
+. 
+.  looks like you may get the chance.  do as i say, vice-director, and you
+.may just get back to vultkolor in one piece.
+. 
+
+
+d
+
+.cpt. velasquez
+€vice-director selat
+
+€ 
+€  crystalline bluerite.  vultkolor relies on excessive amounts of this
+€substance to power its particle shield and urion pulse-reactors.  the
+€crystal is also manufactured into a gaseous plasma that propels the
+€largest vulture ships.
+€ 
+
+. 
+.  the starcruisers.
+. 
+
+€ 
+€  for security reasons, all factories which manufacture bluerite are
+€contained within the city.  only the initial mining occurs outside
+€vultkolor"s perimeter.
+€ 
+
+
+d
+ 
+.cpt. velasquez
+b.o.b.
+
+ 
+  i"ve managed to acquire detailed blueprints of the mining station
+karuvia ii from secnet files.
+ 
+
+€vice-director selat
+€ 
+€  it"s located near the outer ridge of the karuvius crater.  what do
+€you intend to do, captain?
+€ 
+
+. 
+.  what i do best, vice-director.
+. 
+b.o.b.
+.  have striker rig a moloton warhead to a loaded kolorite transport.
+. 
+
+ 
+  y-y-yes, sir.
+ 
+
+€vice-director selat
+€ 
+€  is violence your only weapon, captain?
+€ 
+
+. 
+.  it"s the only one i need.  i also require your clearance code to
+.get that truck inside the station.  either you give it to me now, or
+.i"ll send you back to vultkolor in a vanadium urn.
+. 
+
+
+d
+!
+.cpt. velasquez
+9dispatcher
+
+. 
+.  tell striker he"s in command until i return.  sova and i will escort
+.the kolorite transport safely to karuvia ii.  when the truck reaches its
+.destination, a moloton warhead strapped to the kolorite tanks will blow
+.the mining station to bits.
+. 
+
+9 
+9  good luck, velasquez.  there"s a lot of vultures out there today.
+9 
+
+. 
+.  i don"t need advice from a dickless dispatcher with the brainpower of
+.a dead battery!
+. 
+
+9 
+9  speaking of batteries, vel, when was the last time someone recharged
+9yours?
+9 
+
+. 
+.  i"ll pretend i didn"t hear that.  once the truck is safely on its     
+.way, sova and i will delete any vultures left in the trenches.  when    
+.i return, i want this facility ready for evacuation.
+. 
+
+9 
+9  evacuation?!  but striker just got the power grid stabilized!
+9 
+
+. 
+.  give him a cookie, then tell the shithead to get packing!
+. 
+
+
+d
+"
+6general kreel
+!commander osyluth
+
+6 
+6  what do you mean, destroyed?
+6 
+
+! 
+!  our relay station is no longer receiving a transmission from the
+!karuvia ii facility, and we"ve registered a large kolorite explosion
+!in the vicinity.  several unidentified skids have been detected moving
+!through the trenches, but the moon"s magnetosphere makes confirmation
+!difficult.
+! 
+
+6 
+6  difficult?!  these irritating pests are sechians, commander, nothing
+6more!  they want to get our attention by crippling bluerite production,
+6and your utter incompetence has allowed them to run rampant in the
+6trenches!
+6 
+
+! 
+!  vice-director selat reports that a splinter faction has taken full
+!responsibility for the attack.  he and his staff managed to escape and
+!are scheduled to retur--
+! 
+6  i want to see this... selat.  in the meantime, commander, you will
+6continue your search for the sechian terrorists!
+6 
+
+! 
+!  yes, my lord.  i will station additional squadrons of skids at every
+!bluerite mine in the dark frontier.
+! 
+
+6 
+6  you insect-minded imbecile!  the sechians will anticipate that!  they
+6have ten, possibly twelve skids available!  they will not risk losing
+6their vehicles in a one-sided military confrontation!
+6 
+
+! 
+!   my lord, what would you have me do?
+! 
+
+6 
+6  if your sensors detected a kolorite explosion, commander, your task
+6is obvious!  search every kolorite production facility, operational
+6and abandoned, within 500 kilovarts of karuvia ii!  the sechians
+6certainly didn"t bring the kolorite with them!
+6 
+
+! 
+!  i will commence the search immediately, my lord.
+! 
+
+6 
+6  you have until general talon arrives.
+6 
+
+
+d
+#
+&commander kovia
+vulture lt.
+
+& 
+&  arm all weapons and route power to the forward particle shield.
+& 
+
+ 
+  telorite torpedoes armed, commander.
+ 
+
+ 
+  urion pulse emitters fully charged as well.
+ 
+
+& 
+&  hold position here.  counter any maneuver the other ship makes.
+& 
+
+ 
+  sir, i"m receiving an uncoded transmission from general talon"s
+ship.
+ 
+
+& 
+&  uncoded?!  engage primary vid conduit!
+& 
+
+0general talon
+0 
+0  this is no way to greet the next overlord of vulturnus, commander
+0kovia.  lower your shields and let my ship pass!
+0 
+
+& 
+&  my orders are clear, general.  you will stand down and await
+&instructions.
+& 
+
+0 
+0  i wait for no one, commander!  i did not travel all the way from the
+0leikos system to be detained by a third-rate ship"s commander who"s
+0twice failed to win a promotion!
+0 
+
+& 
+&  you one-eyed worm!  if by some remote chance you"re named as heir
+&to the empire, then i will obey your commands -- not before!  you will
+&hold your position here until the other generals arrive.  otherwise, i
+&will execute my orders and scatter your atoms across space!
+& 
+
+0 
+0  charming as a lekosian razorbeetle!  your threats do not frighten me,
+0kovia.  i have a meeting with general kreel on kolor.  now move aside.
+0 
+
+& 
+&  make me.
+& 
+
+
+d
+ê
+.cpt. velasquez
+qlt. striker
+
+q 
+q  holy kamoly!
+q 
+
+. 
+.  problem, lieutenant?
+. 
+
+q 
+q  sorry, captain.  i almost didn"t recognize you!
+q 
+
+. 
+.  are the transports ready for departure?
+. 
+
+q 
+q  we"ve refitted one kolorite transport to hold weapons.  the other
+qtwo are still being modified as personnel carriers.  with the 
+qvice-director"s permission, we"ll use his truck to transport our medical
+qand tech supplies.
+q 
+
+. 
+.  that is not the vice-director"s decision to make, lieutenant!
+. 
+
+q 
+q  sorry, captain.  i was attempting to have some courtesy.
+q 
+
+. 
+.  don"t kiss my ass, you simple-minded suck up!  cram everything you
+.can into the kolorite trucks and leave the rest behind!  vice-director
+.selat will not be joining us.
+. 
+
+q 
+q  how will we penetrate the city"s defense perimeter?
+q 
+
+. 
+€vice-director selat
+€  i"ve already given your little robot the necessary clearance codes.
+€there should be no problem.  when you enter vultkolor, proceed directly
+€to the beta quadrant... genereal orlok"s sector of the city.
+€ 
+
+q 
+q  this general orlok -- is he a decent man?
+q 
+
+€ 
+€  he is sympathetic to our cause, and he has the overlord"s ear.
+€ 
+
+q 
+q  how does that help us?
+q 
+€  the overlord listens to orlok, and orlok wants a peaceful end to
+€the strife in our galaxy.
+€ 
+
+q 
+q  peaceful vulture sounds like an oxymoron to me.
+q 
+
+.cpt. velasquez
+. 
+.  you should know all about morons, lieutenant.  speaking of morons,
+.tell koth to release the other silatics in custody and escort them
+.to the personnel transports.  jekar and the others"ll be coming with us...
+.as our insurance policy.  and tell dr. livid to take dna samples of all
+.personnel for future use.
+. 
+
+q 
+q  whatever you say, captain.
+q 
+
+€vice-director selat
+€ 
+€  i cannot fathom how you earn their loyalty.
+€ 
+
+. 
+.  i just shoot the disloyal ones.
+. 
+
+€ 
+€  i see.  it"s not enough you look like a vulture, you have to act --
+€ 
+.  don"t test your luck with me, selat!  my heart"s made of metal, and so
+.is my conscience.
+. 
+
+€ 
+€  on the subject of dna, general orlok has promised to bring a tissue
+€sample taken by the overlord"s physician.  when the time is right, the
+€overlord will be removed and jekar will take his place.  you see, 
+€according to orlok, the overlord is dying.  he is coming here to name
+€his successor.
+€ 
+
+. 
+.  so you"ve conspired with orlok to eliminate him.  how noble.
+. 
+
+€ 
+€  the overlord is already dead, velasquez.  we must take advantage of
+€his misfortune before someone else does.  traditionally, the new overlord
+€is determined by military status.  four generals are vying for this 
+€highest honor.  between them, they"ve conquered or decimated more than
+€fifty civilizations, mine and yours among them.
+€ 
+
+€  to keep the peace, each general has been assigned one quadrant of the
+€city.  orlok occupies the beta quadrant.  talon, marilith and kreel
+€command the remaining three.  there exists a mutual, if tenuous,
+€concession among the generals not to invade each other"s territory.
+€ 
+
+€  jekar must be installed before a successor is named.
+€ 
+
+. 
+.  the last thing we need is a genocidal jack-off like kreel in command!
+. 
+
+€ 
+€  exactly.  jekar will be the perfect facsimile... genetically identical
+€to the real overlord, yet perfectly healthy.  once he is installed, jekar
+€can work with orlok to establish peaceful relations with previously 
+€conquered worlds.  none of the other generals are as willing to use their
+€power constructively.
+€ 
+
+. 
+.  or maybe orlok"s as ruthless as they come.  once he gains control of
+.the overlord"s empire, what"s to keep him from destroying you and anyone
+.else who gets in his way?  has that even occurred to you?!
+. 
+
+€ 
+€  we have faith in him.
+€ 
+
+. 
+.  faith is for desperate people who can"t defend themselves.  we can.
+. 
+
+€ 
+€  orlok destroyed my world, captain, in much the same fashion as kreel
+€destroyed yours.  yet i trust him for reasons i cannot explain.  it"s
+€easy to hate a mortal enemy, velasquez, but we silatics aren"t a hateful
+€race.  nor do we wish to become one.
+€ 
+
+. 
+.  how pathetic.
+. 
+
+
+d
+$
+.cpt. velasquez
+qlt. striker
+
+q 
+q  we"ve rigged the power emitters to feed back on themselves as soon as
+qsomeone reactivates the security grid.  that should kill a few vultures!
+q 
+
+. 
+.  is there a problem, lieutenant?
+. 
+
+q 
+q  no, captain.  it"s just... well..
+q 
+
+. 
+.  well what?!
+. 
+
+q 
+q  i"m not used to seeing you as a vulture.  dr. livid did a good job.
+q 
+
+. 
+.  excuse me?
+. 
+
+q 
+q  uh... green is your colour?
+q 
+
+. 
+.  come a little closer and say that...
+. 
+
+
+d
+%
+.cpt. velasquez
+flt. koth
+
+. 
+.  sova will escort the transports safely into vultkolor using the stolen
+.vulture i skid and selat"s clearance codes.  the rest of us will have
+.to blast our way past the vulture patrols.
+. 
+
+f 
+f  jussst where is ssselat?
+f 
+
+. 
+.  probably in vultkolor by now.  koth, you will lead hornet wing alpha.
+.i"ll lead the stilettos.  striker, you"re in command of hornet wing beta.
+.try not to get your ass blown off!
+. 
+
+qlt. striker
+q 
+q  no thanks to you, captain.  i can barely see outta my right eye!
+q 
+
+. 
+.  just keep your other eye open!  no one"s stopping to scrape you off
+.a trench wall!
+. 
+
+q 
+q  thanks for trying to cheer me up.  next time, don"t bother.
+q 
+
+
+d
+&
+&commander kovia
+vulture lt.
+
+ 
+  we"re under attack by general talon"s ship!
+ 
+
+& 
+&  return fire!  disable their weapon and propulsion systems!
+& 
+
+
+d
+'
+€vice-director selat
+6general kreel
+
+6 
+6  vice-director selat, i presume.  what a pleasure it is to meet you
+6at last.  i found your report on the destruction of the karuvia ii
+6mining facility... intriguing.  i am eager to learn more about this
+6so called splinter faction which has infested the trenches
+6surrounding vultkolor.
+6 
+
+
+d
+(
+€vice-director selat
+6general kreel
+
+€ 
+€  where is director zargon?
+€ 
+
+6 
+6  the quessarian silvershark has a most voracious appetite.  if he were
+6alive, i"m sure director zargon would agree wholeheartedly.  that is, if
+6his heart were still whole...
+6 
+
+€ 
+€  then zargon is...
+€ 
+
+6 
+6  sharkmeat.
+6 
+
+6 
+6  the face of command in vultkolor has changed for the better.  from 
+6this point forward, you will address all matters of concern to me.
+6 
+
+!commander osyluth
+! 
+!  sorry to disturb you, my lord, but several unidentified skids have
+!breached the ion barricade.
+! 
+
+6 
+6  activate the negaton defense screens, commander.  i want the intruders
+6obliterated.  bear in mind the penalty for failure.
+6 
+
+! 
+!  the other commanders have been alerted.  we will not fail you, my lord.
+! 
+
+€vice-director selat
+6 
+6  your splinter faction, no doubt.
+6 
+
+
+d
+)
+.cpt. velasquez
+qlt. striker
+
+. 
+.  vultures are closing in.  proceed to the coordinates specified
+.by your onboard computer systems.  i"ll take out the laundry.
+. 
+
+q 
+q  need a hand, captain?
+q 
+
+. 
+.  get a brain, striker.  velasquez out.
+. 
+
+
+d
+*
+.cpt. velasquez
+b.o.b.
+
+. 
+.  i don"t care what that selerian suitcase says!  i want those stilettos
+.modified to carry more missiles.
+. 
+
+ 
+  b-b-but we b-b-barely have enough missiles to arm the hornets!
+ 
+
+. 
+.  access secnet and locate the nearest vulture armory.  we"ll need extra
+.missiles, what with those stupid negaton fields blocking half the streets.
+. 
+
+ 
+  r-r-raid an ar-ar-armory?!  y-y-you"re kidding, r-r-right?
+ 
+
+. 
+.  we"re also running low on ions.  tell that lizard-faced lugnut to 
+.ready three ion trucks -- two of them modified to carry missiles.  tell
+.him i want them ready by 2600 hours!
+. 
+
+
+d
++
+.cpt. velasquez
+4dr. diva livid
+
+. 
+.  have you completed the alterations, doctor?
+. 
+
+4 
+4  striker"s done.  you"ll notice that i even covered up his black eye.
+4devilin and sova will have to wait, though.  i"ve got three officers
+4with ion burns who require immediate treatment.
+4 
+
+. 
+.  spare me your belaborment, doctor.  i need devilin and sova on deck
+.in thirty radians.
+. 
+
+4 
+4  i"m a doctor, dammit, not a face-painter!  these things take time!
+4 
+
+. 
+.  you have your deadline, doctor.
+. 
+
+flt. koth
+. 
+.  koth -- get me a secure channel to vice-director selat"s office.  i
+.need to know when the other generals are slated to arrive, and where
+.that bastard kreel is.
+. 
+
+
+d
+,
+6general kreel
+€vice-director selat
+
+6 
+6  tell me, vice-director.  how do you suppose the sechians acquired the
+6clearance codes to the city"s ion barricade?
+6 
+
+€ 
+€  i know nothing about sechians.  i was sent by director zargon to 
+€inspect the karuvia ii mining station.  there was an incident.
+€ 
+
+6 
+6  yes, i know.  a very suspicious kolorite explosion.  according to your
+6report, you claim the unprovoked attack was committed by a vulture
+6splinter faction?
+6 
+
+€ 
+€  that is what i believe.
+€ 
+
+6 
+6  i do not.  in fact, vice-director, i believe you are lying to me.
+6let me show you what happens to subordinates who lie to me.
+6 
+
+)mala
+6 
+6  you see, mala, how easily the nerves respond to pain? 
+6 
+
+*vice-director selat
+6 
+6  let"s assume for the moment that you, vice-director, allowed the
+6sechians access into vultkolor.  what possible reason could there be
+6for such... traitorous behaviour?
+6 
+
+6  i"m waiting, selat.  more pain?
+6 
+
+* 
+*  i know nothing about sechian infiltrators.  they must have allied
+*themselves with director zargon.
+* 
+
+6 
+6  how convenient that zargon is dead.  let me ask a more pointed
+6question have you ever, in your worthless lifetime, heard the
+6name velasquez?  marta louise velasquez, to be exact?
+6 
+
+* 
+*  no.  i do not know this person of whom you speak.
+* 
+
+)mala
+6 
+6  i"ve never heard such transparent lies.  observe, mala, how persisted
+6pain brings the subject closer to death...
+6 
+
+
+d
+.
+&commander kovia
+vulture lt.
+
+& 
+&  damage assessment!
+& 
+
+ 
+  particle screens buckling.  propulsion and telorite torpedo systems
+inoperative.
+ 
+
+& 
+&  discharge forward urion emitters!  ten-degree dispersion field!
+& 
+&  what"s the status of talon"s ship?
+& 
+
+ 
+  moderate damage to ship"s maneuverability.  minor hull penetration and
+weapons damage.
+ 
+
+& 
+&  send transmission to vultkolor and alert general kreel.  inform him
+&that talon has penetrated our blockade.
+& 
+
+
+d
+0
+6general kreel
+€vice-director selat
+
+6 
+6  time"s running out, vice-director.  as much as i enjoy watching you
+6writhe in agony, i"ve got bigger birds to contend with.
+6 
+
+€ 
+€  i do not know anyone named velasquez!  i do not know where the 
+€sechians are!
+€ 
+
+6 
+6  you have the determination of a trained soldier, vice-director.  but
+6if it comes down to sheer willpower, selat -- yours against mine -- i
+6guarantee you will lose.  i suggest you tell me where the sechians have
+6hidden themselves.
+6 
+
+6  no one can survive the levels of pain i am prepared to inflict upon
+6you.  i give you one last chance to confess your treason, selat, before
+6i reduce your mind to ionized mush.  tell me where the sechians are 
+6hiding!
+6 
+
+
+d
+/
+.cpt. velasquez
+9dispatcher
+
+9 
+9  selat"s not answering our transmission, vel.  i don"t know what it
+9means, but i don"t like it.  selat"s probably told them everything by
+9now!
+9 
+
+. 
+.  you don"t know k"r"roc shit, carl.  discontinue the transmission
+.before someone else detects it.  now, has bob acquired the clearance
+.codes to the vulture armory?
+. 
+
+9 
+9  they"ve been programmed into the transports" computers.  striker
+9and the others shouldn"t have any trouble getting in.  getting out"s
+9the tricky part.  it won"t take the vultures long to realize what"s
+9going on.
+9 
+
+. 
+.  this tank packs enough firepower to blow away half a city block.  i
+.think i can handle a few vultures!
+. 
+
+9 
+9  be careful with that slug, vel.  that"s no stiletto you"re flying.
+9 
+
+. 
+.  no shit.  actually, i thought it was an ice-cream van!
+. 
+
+9 
+9  the class-iii"s shields can absorb those negaton fields a bit more
+9effectively.  remember though, you"re not invincible!
+9 
+
+. 
+.  bite your tongue, worm-breath!  now clear me for departure!
+. 
+
+9 
+9  first be a good girl and blow me a kiss!
+9 
+
+. 
+.  i"ll blow you away if you don"t comply!
+. 
+
+
+d
+1
+.cpt. velasquez
+9dispatcher
+
+9 
+9  say, vel, what happened to the other transports?
+9 
+
+. 
+.  those idiots couldn"t fly a kite, let alone a weapons transport!
+. 
+
+9 
+9  more officers bite the dust, huh?  that won"t look good on your resume!
+9 
+
+. 
+.  your face wouldn"t look too good with a pair of ion cannons rammed up
+.your nostrils!
+. 
+
+9 
+9  good point.  i guess we should be happy... at least you came back.
+9 
+
+. 
+.  check your math, moloton brain!  those transports were too important
+.to lose even one!
+. 
+
+
+d
+2
+.cpt. velasquez
+\jekar
+
+\ 
+\  you said you wanted to see me?
+\ 
+
+. 
+.  i hear you"ve been spending time with my son, ian.
+. 
+
+\ 
+\  ian and i have been just passing time.
+\ 
+
+. 
+.  i don"t care if you were passing wind!  i didn"t give you permission
+.to be with my son!
+. 
+
+\ 
+\  we look very much alike, you and i.  yet you distrust me because
+\of my appearance.
+\ 
+
+. 
+.  i distrust everyone, jekar.  but ian has more important lessons to
+.learn than the ones you"re teaching him.  you believe that a day will
+.come when vultures will be our friends.  well, i"ve got news for you,
+.blob-butt!  so long as i possess the will to kill, that day will
+.never come!  that is the lesson my son must learn.
+. 
+
+
+d
+3
+6general kreel
+€vice-director selat
+
+6 
+6  your ability to withstand pain is remarkable.  and futile.
+6 
+
+6  your sechian friends have just raided one of our armories and
+6killed hundreds of innocent people.  it would help me immensely to
+6know where these vermin are hiding.
+6 
+
+€ 
+€  b-b-b-b-bet-bet...
+€ 
+6  beta?  you mean the beta quadrant?!  tell me where!  where in
+6the beta quadrant?
+6 
+
+6 
+6  tell me where, you treacherous pile of shit!
+6 
+
+€ 
+€  i.. i.. 
+€ 
+vulture lt.
+ 
+  holy shit!  selat"s... he"s... changing form?
+ 
+6 
+6  shoot it, you fool!
+6 
+ 
+  yes, sir!
+ 
+
+6 
+6  damn silatics!  the remnants of an extinct race return to plague
+6us!  tell commander osyluth to search the beta quadrant.  keep me
+6apprised of his progress.
+6 
+
+
+d
+5
+6general kreel
+!commander osyluth
+
+! 
+!  so far, my patrols have been unable to locate the sechians.
+! 
+
+6 
+6  why doesn"t that surprise me?  these sechians are like rugroaches,
+6commander.  insidious and persistant.  they scuttle into their little
+6hideaways to avoid scrutiny, crawling back out the moment your back
+6is turned.  i want those skittering bloodsuckers exterminated!
+6 
+! 
+!  somehow, they"ve found a way to access and decipher coded secnet
+!files.  they seem to know our security procedures better than we do.
+! 
+
+6 
+6  then change them!  i don"t want excuses, you worm!  i want security
+6to pinpoint the invasive access signal and trace these pests to their
+6lair!
+6 
+
+! 
+!  it will be done, my lord.
+! 
+
+0general talon
+0 
+0  i hope i"m not intruding... am i late?
+0 
+
+6 
+6  not late enough...
+6 
+
+
+d
+6
+.cpt. velasquez
+9dispatcher
+
+. 
+.  bob says there"s a major shipment of crystalline bluerite entering
+.the city via the northern corridor.  i intend to take it out.
+. 
+
+9 
+9  excuse me for asking, but won"t that just piss director zargon off?
+9 
+
+. 
+.  bob doesn"t think zargon"s in command anymore.  we"ve intercepted
+.several new directives... from general kreel.
+. 
+
+9 
+9  okay, let me rephrase my question.  won"t that just piss off
+9general kreel?
+9 
+
+. 
+.  you have a better plan, melonbrain?
+. 
+
+9 
+9  vel, forgive me for saying so, but there"s no way in hell we can
+9match forces with general kreel.  i wouldn"t "pull his penis", if
+9you know what i mean.
+9 
+
+. 
+.  i don"t pull, carl.  i hack it right off!  that goes for any bozo
+.who gets in my way!
+. 
+
+9 
+9  ouch.  remind me to keep a screen between us.
+9 
+
+. 
+.  i see i"m finally getting through.  now clear me!
+. 
+
+
+d
+7
+.cpt. velasquez
+9dispatcher
+
+9 
+9  you"re becoming a real nuisance, vel.  kreel"s got every vulture skid
+9in the city looking for you!
+9 
+
+. 
+.  what have you learned?
+. 
+
+9 
+9  that you are truly the center of the universe.
+9 
+
+. 
+.  are you trying to be smart?
+. 
+
+9 
+9  wouldn"t think of it.
+9 
+
+
+d
+8
+6general kreel
+0general talon
+
+6 
+6  i"ve assigned you the delta sector.
+6 
+
+0 
+0  i don"t want the delta sector.  the alpha sector has a better view...
+0and it"s the largest.
+0 
+
+6 
+6  i control the alpha sector, you moron.  be thankful you have anything!
+6 
+
+0 
+0  i believe that"s my desk.  step aside.
+0 
+
+6 
+6  your desk?!  this entire system is under my domination until the
+6overlord himself relieves me of command!
+6 
+
+0 
+0  i wouldn"t be surprised if he did, give your deliberate destruction
+0of the sechian spice trade.  your dominion will become a piece of the
+0galactic pie, my friend, and i shall devour the biggest chunk of all!
+0the overlord is still hailing my brilliant triumph in the leikos
+0system!  while you have sniffed the spice of a worthless world, i have
+0conquered a dozen wondrous planets!  when i am declared rightful heir
+0to the overlord"s throne, it will be a momentous day, and i shall
+0relieve you of command myself!
+0 
+
+6 
+6  if you weren"t so full of yourself, you"d be full of shit.  you
+6truly believe the overlord is pleased with the way you ravaged
+6oskopus iv?  the only throne you"ll ever sit on is the overlord"s
+6toilet!
+6 
+
+
+d
+9
+.cpt. velasquez
+4dr. diva livid
+
+4 
+4  i suggest, captain, that you let striker lead this mission.  you"re
+4in no condition to pilot a skid safely.
+4 
+
+. 
+.  the issue"s not debatable, doctor.  bob"s pinpointed a medical storage
+.facility in the gamma sector.  you want medical supplies?  i can get
+.them.  striker couldn"t get the flu on a rainy day.
+. 
+
+4 
+4  a brain hemorrhage has many symptoms, not the least of which is
+4the sudden breakdown of simple and complex thought processes.  you
+4may start to lose your mental facilities.
+4 
+
+. 
+.  doctor, the only thing i"m losing is patience!
+. 
+
+4 
+4  captain, your brainwave patterns are off the scale!
+4 
+
+. 
+.  so"s your weight.
+. 
+
+4 
+4  must you insult everybody like that?!  if it weren"t for those
+4cybernetic biomatrices in your brain, you"d be a vegetable by now!
+4i suppose you can thank dr. ramses for that.  i wouldn"t.  although
+4his technology is keeping you alive, it"s also what"s killing you.
+4maybe you should think about that, velasquez!
+4 
+
+. 
+.  are you finished?  because if you"re not, i"ll do everyone a favor
+.and blow your head off!  your lectures are enough to turn anyone into
+.a vegetable, hemorrhage or not!
+. 
+
+4 
+4  fine.  do what you want.  when the brain hemorrhage finally kills you,
+4i hope you"re doing 460 down a trench!
+4 
+
+
+d
+:
+.cpt. velasquez
+9dispatcher
+
+9 
+9  the entire sector is crawling with vultures, babe.  good luck tryin"
+9to get through undetected!
+9 
+
+. 
+.  who needs luck!  luck is for the dipshit who doesn"t know his ass from
+.the cleft in his chin!
+. 
+
+9 
+9  well i -- hey!  i resemble that remark!
+9 
+
+. 
+.  kellogg and tercion will take to the streets in stilettos and draw
+.enemy fire.  when they"ve led away most of the vulture boneheads, i"ll
+.ecort sova"s transport to and from the medical facility.
+. 
+
+9 
+9  just like that, huh?
+9 
+
+. 
+.  it"s called the decoy ploy, moron.  look it up.
+. 
+
+9 
+9  under "d" for decoy?
+9 
+
+. 
+.  no.  under "p" for peabrain.  now clear me for departure before i
+.clear you for life.
+. 
+
+
+d
+;
+.cpt. velasquez
+9dispatcher
+
+9 
+9  hey, vel, what happened to sova?
+9 
+
+. 
+.  file him under "d" -- for destroyed.
+. 
+
+9 
+9  so much for the decoy ploy, huh?  another one bites the dust!
+9 
+
+. 
+.  you wanna be next?!
+. 
+
+9 
+9  save the violence for the vultures, babe.  i"m on your side, remember?
+9 
+
+. 
+.  you"re on spice, carl.  i need you like i need intestinal flu.
+. 
+
+
+d
+<
+.cpt. velasquez
+9dispatcher
+
+9 
+9  i see you ran into a few vulture interceptors out there.  is that
+9a blasthole in your hull?!
+9 
+
+. 
+.  how would you like a blasthole in your forehead?  those stripped-down
+.vulture i"s were no match for this tank!  i"ve seen cardboard targets
+.put up a better fight.
+. 
+
+9 
+9  someone should tell kreel he needs better skids.  either that or
+9better pilots.
+9 
+
+. 
+.  what kreel needs is a skewering rod through his shit-filled skull!
+. 
+
+9 
+9  that too.
+9 
+
+
+d
+=
+6general kreel
+pgeneral marilith
+
+6 
+6  you"re late, marilith.
+6 
+
+p 
+p  one of your planets was in my flight path.  i destroyed it.
+p 
+
+6 
+6  i see that decades of war in the penetad system haven"t dulled your
+6sense of humor.
+6 
+
+p 
+p  your sense of humor eludes me, kreel.  my vessel has obtained orbit.
+pi will join you in vultkolor within the hour.  you have until then to
+pprepare for my arrival.
+p 
+
+6 
+6  i"ve temporarily bequeathed the city"s gamma sector to you.
+6 
+
+p 
+p  bah!  i have the firepower to crack this moon like a nut!  why
+pthe overlord chose this worthless rock as his nexus eludes me!
+p 
+
+6 
+6  you control the urgus cluster, talon the ki"irani belt.  kolor is
+6equidistant from both.  simple geometry.
+6 
+
+p 
+p  oh, shut up!
+p 
+
+
+d
+>
+\jekar
+.cpt. velasquez
+
+\ 
+\  our mission must proceed on schedule!
+\ 
+
+. 
+.  listen to me, you silatic simulacrum!  selat"s made no attempt
+.to communicate, nor has he acknowledged our transmissions!  if kreel
+.killed zargon as you say, he probably trashed selat for kicks.
+. 
+
+b.o.b.
+ 
+  k-k-kreel"s no f-f-fool, j-j-jekar.
+ 
+
+.cpt. velasquez
+. 
+.  i say selat"s roadkill by now.  without him, your operation is dead
+.as sandsquid-shit.
+. 
+
+\ 
+\  no, it"s not.  we have another ally in the vci, captain.  the mission
+\is not over yet.
+\ 
+
+. 
+.  you amorphous asshole, why wasn"t i told?!
+. 
+
+\ 
+\  the vice-director thought it wise not to trust you with such
+\information.  there was no need to divulge the other"s identity.
+\ 
+
+. 
+.  who is it?  tell me, jekar, before i blast the shit right out of you!
+. 
+
+\ 
+\  the silatic"s name is osyluth.  naven osyluth.  he"s a skid commander.
+\ 
+
+. 
+.  take me to him.
+. 
+
+
+d
+?
+.cpt. velasquez
+qlt. striker
+
+q 
+q  osyluth"s received our coded transmission, captain.  he"s agreed
+qto meet you at a neutral sight.  the coordinates have been programmed
+qinto your onboard computer map.
+q 
+
+. 
+.  you"re in command until i return.  do not schedule any attacks
+.until i get back!
+. 
+
+q 
+q  none?!  but what if you don"t come back?
+q 
+
+. 
+.  don"t get comfortable, striker.  i"m not leaving my son in your
+.incapable hands, nor would i trust you with the fate of this
+.department!  you disobeyed a direct order to wear the vulture get-up,
+.and you expect my trust?  signal the dispatcher to clear me for
+.departure.  velasquez out!
+. 
+
+
+d
+@
+!commander osyluth
+.cpt. velasquez
+
+! 
+!  so you"re captain velasquez.
+! 
+
+. 
+.  and you"re the asshole who keeps attacking my skids!
+. 
+
+! 
+!  selat and i tried to convince general kreel that a splinter faction
+!was responsible for the karuvia ii attack, but he"s made it clear he
+!wants you sechians eliminated.  despite my feelings, i am forced to 
+!perform my duty.  to do otherwise would jeapordize my position.
+! 
+
+. 
+.  instruct your pilots to back off!
+. 
+
+! 
+!  i"ve tried.  so far, i"ve managed to keep the location of your
+!hidden base a secret.  the other commanders would not be so...
+!compassionate.
+! 
+
+. 
+.  the last thing i need is another compassionate silatic!  you"re
+.nothing but a vulture-faced, ion-brained pile of shapeshifting
+.k"r"roc shit!
+. 
+
+! 
+!  general kreel does not like you very much, and i can see why.
+! 
+
+. 
+.  what happened to selat?
+. 
+
+! 
+!  selat"s dead, and so is zargon.  kreel runs vultkolor now.
+! 
+
+. 
+.  i want to get inside the vulture command installation.  i want
+.kreel"s ion-pocked corpse jettisoned into space!
+. 
+
+! 
+!  i cannot assist you.  not until our mission is complete.
+! 
+
+. 
+.  listen to me, you nose-picking pacifist!  i"ll end your mission
+.right here!  i intend to kill that bastard, and unless you agree to help
+.me, i"ll vape you, jekar, and every other silatic slug i find!
+. 
+
+! 
+!  if you kill me, one of the other commanders will locate your hidden
+!base and destroy it.  thanks to me, you"ve only encountered a fraction
+!of the military forces at general kreel"s disposal.
+! 
+
+. 
+.  thanks to you, my department"s been reduced to stealing medical
+.supplies!
+. 
+
+! 
+!  you have jekar and the others in your custody.  so long as they
+!remain at your base, their lives are in peril.  you must transfer them
+!to me immediately.  i can protect them in ways you cannot.
+! 
+
+. 
+.  you couldn"t protect a wad of shit with flypaper.
+. 
+
+! 
+!  i"m afraid i don"t underst--
+! 
+.  listen to me, osyluth!  if you don"t help me, i"ll contact general
+.kreel myself and tell him you"re a silatic traitor!  he"ll scatter your
+.amorphous atoms from here to mossos and kill any chance your mission
+.has for success.
+. 
+
+! 
+!  you would destroy the last hope for peace in our galaxy?  only
+!a fool would interfere!
+! 
+
+. 
+.  i"m not interested in peace, commander.  i think jekar will attest
+.to that!
+. 
+
+. 
+!  well... i can give you the means to disable the negaton defense
+!screens.  that"s the best i can do for now.  as for the rest, i"ll see
+!what i can manage.
+! 
+
+
+d
+A
+.cpt. velasquez
+9dispatcher
+
+9 
+9  cavorting with vultures again, vel?
+9 
+
+. 
+.  how would you like your face strapped to a particle vaporizer?
+. 
+
+9 
+9  oh, oh.  sounds like captain carnage is suffering from cyborg pms!
+9 
+
+. 
+.  you don"t even know what suffering is!!
+. 
+
+9 
+9  believe me, captain, i don"t want to find out!
+9 
+
+
+d
+B
+6general kreel
+pgeneral marilith
+
+p 
+p  the gamma sector?!  how dare you assign me to the gamma sector!
+p 
+
+6 
+6  you would prefer to remain in orbit?
+6 
+
+p 
+p  fool.  if you possessed the slightest shred of wisdom, you"d 
+pswallow that spitball you call pride and yield the alpha sector to me.
+pin five days, you"ll be addressing me as overlord anyways!
+p 
+
+0general talon
+0 
+0  ah, i see general marilith has arrived.  go back to the urgus cluster,
+0woman!  there"s not enough space on this rock for the three of us!
+0 
+
+p 
+p  if your brain was one-fiftieth the size of your ego, you wouldn"t
+phave bothered coming!  the overlord has always given me the toughest
+pplanets to conquer, and i have never failed him.  you puerile,
+ppellet-brained powermongers who conquer derelict worlds and decrepit
+pstretches of worthless space don"t stand a chance!
+p 
+
+0 
+0  the overlord would never select a woman to lead the empire.  a
+0woman"s place is next to the throne, not in it!
+0 
+
+p 
+p  you will choke on those words, i promise you!
+p 
+
+6general kreel
+6 
+6  while you have the upper hand, marilith, i suppose you could explain
+6why you"ve brought this clone with you?
+6 
+
+èdr. bela ramses
+è 
+è  i am dr. bela ramses.  i have come to confer with my genetic
+èprogenitor regarding a new device of incredibly destructive power.
+è 
+
+6 
+6  if by "progenitor" you mean dr. clive ramses, you"re too late.  that
+6imbecile was killed by sechian terrorists in vultigard.
+6 
+
+è 
+è  my creator... is dead?
+è 
+
+6 
+6  i believe that"s essentially what i said.
+6 
+
+0general talon
+0 
+0  do not fret, dear doctor.  there are sechians here in vultkolor,
+0eager to repent for their sins!  general kreel has tried to keep the
+0matter quiet, of course -- to avoid humiliation, no doubt.  naturally,
+0he"s been unable to locate these... villians.
+0 
+
+pgeneral marilith
+p 
+p  bah!  i"ve spent the last hour monitoring this city"s communication
+pnetwork!  would someone kindly tell me why, with five days remaining
+puntil the overlord"s arrival, this city is plagued by vigilantes in
+parmed skids?!
+p 
+
+0 
+0  tell us, kreel, how do you intend to eradicate this menace?
+0 
+
+p 
+p  or would you prefer we did it for you?
+p 
+
+
+d
+C
+.cpt. velasquez
+9dispatcher
+
+9 
+9  we"ve received a sigma-coded transmission from your vulture boyfriend.
+9he"s given us the necessary security cyphers to override the negaton
+9fields for a short time.
+9 
+
+. 
+.  it"s about time.  tell bob to disable the fields once we"ve cleared
+.the hangar.
+. 
+
+9 
+9  watch yourself, vel.  the fields will only be disabled for a few
+9minutes before the vultures install a new cypher series.  six bluerite
+9transports have entered the city and are heading for the v.c.i.
+9 
+
+. 
+.  how many escorts?
+. 
+
+9 
+9  trust me, vel, you don"t wanna know.  but don"t worry.  we"ve equipped
+9your stiletto with extra missiles.
+9 
+
+. 
+.  like i need them!  now clear me.
+. 
+
+
+d
+D
+.cpt. velasquez
+9dispatcher
+
+9 
+9  you"re getting rusty, vel.  those vultures practically had you flying
+9in circles!
+9 
+
+. 
+.  go step on a moon-mine!
+. 
+
+9 
+9  maybe you should see diva.  you don"t look too good.
+9 
+
+. 
+.  damn headaches!  i feel like i"ve been shot through the skull!
+. 
+
+9 
+9  maybe it"s a premonition.  i know half a dozen pilots who"d love
+9to shoot you in the head.
+9 
+
+. 
+.  one more smarmy, smart-ass remark and you"re maggot meat!
+. 
+
+
+d
+¨
+.cpt. velasquez
+b.o.b.
+
+. 
+.  this had better be important.
+. 
+
+ 
+  sorry to disturb you, c-c-captain, b-b-but you told me to c-c-contact
+commander osyluth.
+ 
+
+. 
+.  get to the point, spark-plug!  and stop that stuttering!
+. 
+
+ 
+  well, the c-c-c... the c-c-c... the c-c-c...
+ 
+.  what about him?!
+. 
+
+ 
+  he"s not answering our transmissions.
+ 
+
+. 
+.  well, if kreel hasn"t killed him by now, i certainly will.  is there
+.anything else?
+. 
+
+ 
+  n-n-not really.
+ 
+
+. 
+.  then get out, you rattling garbage receptacle!
+. 
+
+
+d
+E
+.cpt. velasquez
+4dr. diva livid
+
+4 
+4  the cybernetic implants are degenerating the nerve endings in
+4your brain, which is why you feel the pain.  however, they"re also
+4destroying your brain cells.  i"d conservatively estimate about
+410,000 cells a day.
+4 
+
+. 
+.  what"s your point?
+. 
+
+4 
+4  that your son is more fit to command than you are.
+4 
+
+. 
+.  don"t worry.  i plan to leave him in charge.
+. 
+
+4 
+4  you"re going somewhere?
+4 
+
+. 
+.  i"ve found a way inside the v.c.i.  a series of subterranean
+.maintenance tubes under the city.  i"m planning to leave this afternoon.
+. 
+
+4 
+4  why tell me this?  i"ll only confine you to a medical bed.
+4 
+
+. 
+.  i"ll rip your head off if you try.  no, doctor, what i need is 
+.something in case the headaches return.
+. 
+
+4 
+4  i"m not in the habit of giving medication to psychotic cyborgs.
+4 
+
+. 
+.  you"re not in the habit of getting your head ripped off, either.
+.take your choice, doctor -- one or the other.
+. 
+
+
+d
+F
+.cpt. velasquez
+9dispatcher
+
+9 
+9  i see dr. livid gave you the medication after all.
+9 
+
+. 
+.  you could use some medication yourself.  i suggest cyanide.
+. 
+
+9 
+9  you would.
+9 
+
+. 
+.  now clear me for departure, before i leave bootprints in your face!
+. 
+
+9 
+9  not until you tell me where you"re going.
+9 
+
+. 
+.  there"s a service conduit to the city"s subterranean level located
+.in the alpha sector, inside an ion supply depot.  i"m gonna get my foot
+.in the door.
+. 
+
+9 
+9  well, i guess a foot in the door"s better than a boot in the face.
+9i can clear you for departure, i suppose.
+9 
+
+. 
+.  i don"t remember giving you a choice!
+. 
+
+
+d
+G
+sadministrator lemure
+.cpt. velasquez
+
+s 
+s  forgive my curiosity, commander, but why the surprise inspection?
+sour production status was confirmed only last week.
+s 
+
+. 
+.  general kreel believes that the sechian terrorists may be operating
+.out of a subterranean annex beneath one of the city"s ion depots.
+.let us hope for your sake, administator, that the sechians are not
+.here.
+. 
+
+s 
+s  depot alpha six has the best security record in the city!  i assure
+syou, commander marta, that this depot"s security precautions negate
+sany possibility of intruders.
+s 
+
+. 
+.  i"ll have to determine that for myself.
+. 
+
+
+d
+H
+6general kreel
+!commander osyluth
+
+6 
+6  you"re a disgrace to that uniform, commander!  by allowing the
+6sechians to destroy another bluerite convoy, you"ve crippled the
+6entire city"s power supply!  these sechian slugs infiltrated one
+6of our ion depots, killed administrator lemure, and planted a muon
+6mine in one of the ion containers!
+6 
+
+! 
+!  i believe we are close to locating the sechian base, my lord.
+! 
+
+6 
+6  you couldn"t locate a planet if you were standing on it!
+6 
+
+&commander kovia
+& 
+&  sorry to interrupt your friendly little chat...
+& 
+
+6 
+6  what are you doing here?  i told you to remain aboard the scavenger!
+6 
+
+& 
+&  the other generals are monitoring all transmission frequencies,
+&coded and uncoded.  i bring a message which must not be overheard.
+& 
+
+6 
+6  don"t worry about osyluth.  he won"t divulge anything once i"ve ejected
+6him into space!
+6 
+
+& 
+&  we"ve detected an anomalous energy reading aboard the "malevolence".
+&a power signature unlike any i"ve ever seen.
+& 
+
+6 
+6  the clone.
+6 
+
+& 
+&  i don"t understand.
+& 
+
+6 
+6  when i asked the ramses clone why he"d come to vultkolor, he said
+6he meant to confer with his progenitor regarding a weapon of
+6substantial destructive capability.  that spacecow marilith must
+6have brought the weapon with her!
+6 
+
+& 
+&  she may try to use this weapon against us!  we must secure the
+&device for ourselves.
+& 
+
+6 
+6  we must be careful -- what"s that noise?!
+6 
+.cpt. velasquez
+. 
+.  i have you now!  die, vulture bitch!
+. 
+&  no!  nooooo!
+
+6 
+6  velasquez!  how in hell... you"ve killed her!
+6 
+
+. 
+.  now it"s your turn, you murdering vulture bastard!
+. 
+
+6 
+6  you"ll find me more prepared than kovia, velasquez.  i am
+6surrounded by an ion field, impenetrable to your ion pistol!
+6 
+
+. 
+.  then i"ll kill you with my bare hands, you --
+. 
+6 
+6  kill her, osyluth!
+6 
+
+
+d
+I
+6general kreel
+!commander osyluth
+
+6 
+6  an excellent move, osyluth.  by shooting out the door"s keypad,
+6you trapped her behind it.  there"s nowhere she can run except back
+6into the hands of the guards.  we"ll take her for questioning and
+6find the remaining sechians!  they will be wiped out!  very good,
+6commander.  you just saved your own life.
+6 
+
+! 
+!  and yours, my lord.
+! 
+
+6 
+6  now hunt down that cyborg bitch before i change my mind!
+6 
+
+
+d
+J
+.cpt. velasquez
+È. 
+
+. 
+.  damn!  i"ll kill that silatic son-of-a-bitch!
+. 
+
+
+d
+K
+.cpt. velasquez
+qlt. striker
+
+q 
+q  jumpin" jingleberries, velasquez!  the whole city"s crawlin" with
+qvulture skids!
+q 
+
+. 
+.  i want that silatic bastard jekar taken to a detention cell!
+. 
+
+q 
+q  i take it things went badly in the v.c.i.
+q 
+
+. 
+.  things will go badly for you if you don"t shut up!
+. 
+
+
+d
+L
+6general kreel
+0general talon
+
+6 
+6  i will not be dictated to!  i command this city, and i control this
+6system!
+6 
+
+0 
+0  recent events would seem to doubt your claims.  i must admit... i
+0find the entire incident quite humorous.  i was especially pleased
+0to learn of commander kovia"s demise.  the overlord, however, would
+0most certainly frown upon your lax security measures.
+0 
+
+pgeneral marilith
+p 
+p  you had this woman in your sights, and you let her make a mockery
+pof everything our empire stands for!  how you attained this position
+pis beyond me!
+p 
+
+0general talon
+0 
+0  this velasquez woman must be a remarkable specimen.  how fortunate
+0for you that not all sechians are so... devastating.
+0 
+
+
+d
+M
+.cpt. velasquez
+\jekar
+
+. 
+.  your operation is dead, jekar, and so are you!
+. 
+
+\ 
+\  osyluth warned you to stay away from the v.c.i!  you should"ve
+\listened to him!
+\ 
+
+. 
+.  i don"t take orders from silatic scum!
+. 
+
+\ 
+\  can"t you see that violence is not the answer?  haven"t you
+\learned anything?  naven did what had to be done!  you have no one
+\to blame but yourself.
+\ 
+
+. 
+.  that bastard accomplice of yours screwed up my mission!  now i"m
+.gonna screw up his!  die for my homeworld, silatic shithead!
+. 
+\ 
+\  noooo!
+\ 
+
+qlt. striker
+q 
+q  captain, he"s dead!  don"t you think you were a little harsh?
+q 
+
+. 
+.  i want the other silatics in custody brought to detention and
+.vaporized.
+. 
+
+flt. koth
+f 
+f  perhapsss the ssstrain of the mission has taken itsss toll.  i
+fsuggessst you sssee the doctor.
+f 
+
+. 
+.  i suggest you follow my orders.
+. 
+
+ ,ian velasquez
+, 
+,  mom?  is... is jekar...
+, 
+
+. 
+.  i killed him, ian.  i had to... he was a threat to our lives!
+. 
+
+, 
+,  he was my friend... and you killed him!  i hate you!  i hate you!
+, 
+
+. 
+.  ian...
+. 
+
+
+d
+N
+.cpt. velasquez
+4dr. diva livid
+
+4 
+4  i told you this would happen.  it is obvious to me that both your
+4physical condition and your judgement have deteriorated to the point
+4of endangering the lives of those around you.
+4 
+
+. 
+.  you can"t relieve me.
+. 
+
+4 
+4  you must come to the infirmary for treatment!
+4 
+
+. 
+.  do you honestly think i would entrust this department to striker
+.or some other half-wit?  i am still capable of making command
+.decisions!
+. 
+
+4 
+4  if it"s revenge you"re after, captain, i recommend you leave striker
+4and the rest of us out of it!  whatever the vultures did to your father
+4is your business, but this personal vendetta of yours puts all our
+4lives at risk!
+4 
+
+. 
+.  you know nothing about what those bastards did to my father!
+. 
+
+4 
+4  i read your file!  do you think i"m an idiot?
+4 
+
+. 
+.  you"re nothing but a self-righteous shaman with shit for brains!
+.an incompetent cleric who couldn"t cure a bad case of hemmorhoids!
+. 
+
+4 
+4  let me give you a piece of advice, captain.  i don"t care how long
+4you sit here plotting the destruction of your enemies.  but there"s a
+4young boy in the other room who"s utterly petrified that his mother
+4is turning into a monster.
+4 
+
+4 
+4  velasquez, i suggest you forget trying to avenge your dead father,
+4and worry about the welfare of your living son.
+4 
+
+
+d
+O
+.cpt. velasquez
+b.o.b.
+
+ 
+  sorry to d-d-disturb you, c-c-captain.  p-p-please don"t v-v-vaporize
+me!
+ 
+
+. 
+.  what is it?
+. 
+
+ 
+  we"ve p-p-picked up a c-c-coded transmission.
+ 
+
+ 
+.  let me guess.  commander osyluth.
+. 
+
+ 
+  w-w-well, n-n-not exactly.
+ 
+
+
+d
+P
+.cpt. velasquez
+6general kreel
+
+6 
+6  you and i have a score to settle, velasquez.  you want me, i want
+6you.  it"s time one of us ended this vendetta!
+6 
+
+. 
+.  sorry, kreel, but i"ve had enough fried buzzard for today.  maybe
+.some other time.
+. 
+
+6 
+6  time"s running out for you and your troublesome minions!  i have
+6sworn to erase you from this universe... even if i have to sterilize
+6every habitable globe in the galaxy to do it!
+6 
+
+. 
+.  you couldn"t sterilize a septic tank.
+. 
+
+6 
+6  it was i, general kreel, who conquered your planet, ordered the
+6attacks on your desert cities, enslaved your populace and annihilated
+6all who opposed me!  it was i, velasquez, who ordered the assault on
+6vulthaven -- the assault which claimed the worthless life of that
+6scum you once called father!
+6 
+
+. 
+.  and i have paid you for that, general, through glasya.  i vaped
+.that sack of vomit you once called daughter!
+. 
+
+6 
+6  you want your son to have a long, healthy life, don"t you?!  well,
+6he won"t have a life at all when i get through with him!
+6 
+
+. 
+.  i"m sick and tired of this.  cut transmission!
+. 
+b.o.b.
+.  have striker prepare a skid for immediate departure.
+. 
+
+
+d
+Q
+.cpt. velasquez
+9dispatcher
+
+9 
+9  you"re not going after kreel again, are you?
+9 
+
+. 
+.  no.  actually, i heard there"s a sale on at the local supermarket.
+. 
+
+9 
+9   really?!  can you pick me up some nice melons?
+9 
+
+. 
+.  like the mush between your ears?
+. 
+
+9 
+9  no, like the ones attached to your --
+9 
+.  listen, melon-head.  i can either blow off my frustrations by vaping
+.things in the streets... or in this hangar bay!  take your pick!
+. 
+
+9 
+9  given the option, i prefer you did your business in the streets!
+9 
+
+
+d
+R
+.cpt. velasquez
+9dispatcher
+
+9 
+9  looks like you spread kreel pretty thin, vel.  how do you feel?
+9 
+
+. 
+.  vindicated.  in fact, i feel like vaping another general.
+. 
+
+9 
+9  maybe we should get the hell outta here, before someone decides
+9to kick the shit out of us.
+9 
+
+. 
+.  get a grip, carl!  it would take a lifetime to kick all the shit
+.out of you!  besides, we still have work to do!
+. 
+
+
+d
+S
+pgeneral marilith
+èdr. bela ramses
+
+p 
+p  well done, doctor.  the transmolecular device you outfitted for
+pgeneral kreel worked perfectly!
+p 
+
+è 
+è  in a manner of speaking, general.  actually, you could say the
+èdevice didn"t really work at all!
+è 
+
+p 
+p  yes... it failed to teleport him out of the skid.  you possess
+pa sharp wit, dr. ramses, as well as a keen mind.  thanks primarily
+pto you, we can continue our mission without that imbecile getting
+pin the way.  i promise you, your loyalty will be rewarded.
+p 
+
+è 
+è  thank you, general marilith.  i could ask for nothing more.
+è 
+
+0general talon
+0 
+0  well played, marilith.  you are wonderful when you"re devious!
+0 
+
+p 
+p  fooling kreel was child"s play.
+p 
+
+0 
+0  before we"re finished, we must remember to eliminate the
+0doctor as well.  no one must know what we"re about to accomplish...
+0until it is too late.
+0 
+
+p 
+p  such wicked duplicity.  i adore you when you"re ruthless!
+p 
+
+0 
+0  are you thinking what i"m thinking?
+0 
+
+p 
+p  sex, my love?  my mind is filled with apolaustic thoughts, but
+ppassion and power make dangerous bedfellows.  sorry, my love.  not
+puntil our task is done.
+p 
+
+
+d
+T
+.cpt. velasquez
+0general talon
+
+. 
+.  general jack-ass, i presume.  i take it this isn"t a social call.
+. 
+
+0 
+0  i just wanted to thank you for eliminating kreel.  i have no
+0private vendettas to settle with you or your people.
+0 
+
+. 
+.  you will.  either you release this system from vulture domination,
+.or i"ll give you a war you can"t win.
+. 
+
+0 
+0  my, you are a volatile woman!  you must have vulturnan blood.
+0 
+
+. 
+.  i suggest you retract that comment.
+. 
+
+0 
+0  naturally, i entertained the thought of simply incinerating the
+0entire moon.  but then i figured, why destroy a perfectly good
+0bluerite industry?  of course, if you continue to threaten that
+0industry with your acts of terrorism, you may leave me no other choice.
+0 
+
+. 
+.  just try it, you cyclopian sack of shit!  i"ll blast you across the
+.koloran moonscape!
+. 
+
+
+d
+U
+.cpt. velasquez
+qlt. striker
+
+q 
+q  several transports have been dispatched from the v.c.i. to pick
+qup consignments of crystalline bluerite.  you, koth and
+qj"larno only have a few minutes to reach them before they pass
+qthrough the ion barricade and enter the outer trenches.
+q 
+
+. 
+.  if koth and j"larno do their job, we"ll only need a few minutes.
+.instruct that dickless dispatcher to clear us for departure!
+. 
+
+q 
+q  you"re clear.  good luck, captain.
+q 
+
+
+d
+V
+4dr. diva livid
+qlt. striker
+
+4 
+4  what happened?
+4 
+
+q 
+q  koth and j"larno were immobilized by a voloton surge.  we haven"t
+qbeen able to make contact with either of them.  the captain made it
+qback okay, but just barely.  she was unconscious by the time we
+qreached her skid.
+q 
+
+4 
+4  i"m detecting brainwave fluctuations in her cerebral cortex.  it
+4may be too late to stablilize her condition.
+4 
+
+b.o.b.
+ 
+  d-d-doctor, is she g-g-going to b-b-be okay?
+ 
+
+4 
+4  her cybernetic implants were overloaded by the vulture voloton
+4surge.  i"m detecting massive hemorrhaging in the cerebral core
+4and cerebellum.  dammit!  the scanner can"t seem to maintain
+4neural stability!
+4 
+
+ 
+  it"s all m-m-my fault!  i was the one who d-d-detected those
+d-d-damn b-b-bluerite transports in the first place!
+ 
+
+4 
+4  try not to rust yourself.  the captain was fully aware of her
+4condition.  she has no one to blame but herself.
+4 
+
+ 
+  w-w-would a d-donation of my internal c-c-capacitors help?
+ 
+
+4 
+4  i don"t think that will be necessary now...
+4 
+
+ 
+  y-y-you mean, she"s g-g-gonna recover?
+ 
+
+4 
+4  i mean she"s on the verge of dying.
+4 
+
+
+d
+W
+0general talon
+pgeneral marilith
+
+0 
+0  we didn"t get velasquez...
+0 
+
+p 
+p  we do have this selerian.  he will tell us everything we need
+pto know -- like the location of the secret sechian base.
+p 
+
+0 
+0  i"ll begin questioning right away.
+0 
+
+p 
+p  what a repulsive creature!
+p 
+
+flt. koth
+f 
+f  you"re not so sssexy yourssself.
+f 
+
+p 
+p  you will suffer for that remark, selerian!
+p 
+
+0general talon
+0 
+0  we should have asked kreel how to work this torture console... hold
+0on, i think i"ve got it!
+0 
+
+flt. koth
+f 
+f  aaaaaaargh!!
+f 
+
+p 
+p  what the hell?
+p 
+0general talon
+0 
+0  damn.  i killed him.
+0 
+
+p 
+p  brilliant.
+p 
+
+0 
+0  at least we know what that button does!  i guess we better bring
+0in the other prisoner -- the one called j"larno.
+0 
+
+p 
+p  let"s make an effort to keep this one alive, shall we?
+p 
+
+
+d
+X
+qlt. striker
+9dispatcher
+
+9 
+9  the base is being overrun by vultures!  they"re appearing out of
+9nowhere!
+9 
+
+q 
+q  activate security screens in all corridors and service junctions.
+qmove everyone into the evacuation tubes.
+q 
+
+9 
+9  the vultures have already sealed off th-- arghhh!
+9 
+vulture lt.
+q  carl!!
+q 
+
+ 
+  you"re next, sechian bastard!
+ 
+
+
+d
+Z
+èdr. bela ramses
+pgeneral marilith
+
+è 
+è  i"ve stabilized the cyborg"s neural cohesion matrix.  the device
+èshould prevent any further bio-degeneration.
+è 
+
+p 
+p  why keep this... thing alive?
+p 
+
+è 
+è  destroy such remarkable technology?  general, i revel in the
+èchance to study every component... every biomatrix!
+è 
+p 
+0general talon
+0  i could never appreciate you scientists, dr. ramses.  this cyborg
+0probably destroyed your progenitor -- and yet you still feel 
+0compassion for it?
+0 
+
+è 
+è  not compassion, general.  curiosity.
+è 
+
+pgeneral marilith
+p 
+p  a scientist"s flaw.
+p 
+
+0general talon
+0 
+0  curiosity killed the cat, doctor.  just be careful it doesn"t
+0kill anything else!
+0 
+
+è 
+è  do not worry, general.  the nerual stabilizer is equipped with
+èa matrix inhibitor.  that should keep her inactive until she"s
+ètaken to my lab aboard the malevolence for proper dissection.  if
+èthis cyborg is responsible for killing my progenitor, as you
+èsuggest... i want vengeance in the fashion of my choosing.
+è 
+
+pgeneral marilith
+p 
+p  very good, doctor.  after you"ve taken the cyborg aboard my ship,
+poutfit the orb of armus with one of your transmoleculizers.  the
+porb must be ready before general orlok"s warship arrives.
+p 
+
+
+d
+[
+.cpt. velasquez
+!commander osyluth
+
+. 
+.  unnngh...
+. 
+
+! 
+!  don"t move just yet.  i haven"t deactivated dr. ramses" matrix
+!inhibitor.
+! 
+
+. 
+.  what"s happened?
+. 
+
+! 
+!  you"re in the vulture command installation.  your neural condition
+!has been stabilized.
+! 
+
+. 
+.  where"s my department?
+. 
+
+! 
+!  general talon had them exterminated.  i"ve secured a skid to help
+!you escape.  i"m also giving you one of dr. ramses" transmolecular
+!devices.  do not utilize it until i say!  i will contact you at
+!the sechian base when the time is right.
+! 
+
+. 
+.  i should kill you.
+. 
+
+! 
+!  save it for later.  if you stay alive long enough, i"ll give you
+!another chance.  i promise.
+! 
+
+
+d
+\
+.cpt. velasquez
+b.o.b.
+
+. 
+.  oh no!
+. 
+
+.  bob, talk to me!  what"s happened here?
+. 
+
+.  you stupid cylindrical shitbucket!  what the hell"s the matter with
+.you?  what the...
+. 
+
+ ,ian velasquez
+, 
+,  he protected me, mom... he was destroyed, and i hid inside him.
+, 
+
+. 
+.  the little guy was faithful to the end... what have i done!?
+. 
+
+
+d
+]
+èdr. bela ramses
+0general talon
+
+è 
+è  velasquez has escaped!  she commandeered one of our stingrays!
+è 
+
+0 
+0  control yourself, doctor.
+0 
+
+pgeneral marilith
+p 
+p  the cyborg"s escape is of little consequence.  outfitting the orb
+pof armus must be your top priority.  see to it immediately.
+p 
+
+è 
+è  but general, i rendered velasquez non-functional!  there"s no way
+èshe could"ve removed the matrix inhibitor by herself!
+è 
+
+p 
+p  are you suggesting she may have a collaborator?
+p 
+
+0general talon
+0 
+0  if she does, rest assured i"ll find the traitor.
+0 
+
+è 
+è  but what about velasquez?  what about my cyborg?
+è 
+
+pgeneral marilith
+p 
+p  it"s possible she overheard our conversation regarding the orb.
+pi"m sorry, doctor, but the cyborg must be destroyed.
+p 
+
+
+d
+^
+.cpt. velasquez
+!commander osyluth
+
+! 
+!  i was with general kreel in his office the day you killed commander
+!kovia.  do you remember?
+! 
+
+. 
+.  of course i remember!  i still owe you for that!
+. 
+
+! 
+!  the last thing commander kovia mentioned before her death was
+!a deviant energy reading aboard marilith"s ship.  kreel was
+!convinced that marilith had access to a weapon of devastating
+!capability.  if this is true, marilith undoubtedly has it aboard
+!the malevolence... and she probably intends to use it.
+! 
+
+. 
+.  the orb of armus.  that"s all i remember from their conversation.
+.do you know what this... orb... might be?
+. 
+
+! 
+!  the planet armus was once part of the urgus cluster.  the vultures
+!conquered that piece of the galaxy decades ago.  the people of
+!armus were aggressive like yourself, but their technologies were
+!far superior in every regard.  they were futurists.
+! 
+
+. 
+.  and now they"re nothing.  but if marilith has this instrument
+.of armageddon, what the hell does she intend to do with it?
+. 
+
+
+d
+Â
+0general talon
+pgeneral marilith
+
+0 
+0  the luril system has only one exploitable world.  the gas clouds
+0of luril iii contain krystalite decahydride.  the system also makes
+0a perfect launching ground for attacks against the celtarans of
+0celtus ii.  would you be willing to bequeath the luril system to me?
+0 
+
+p 
+p  only if you"re willing to relinquish your hold on the kivat system.
+pi understand the caverns on kivat minor yield diamonds twice the
+psize of a celtaran"s balls!
+p 
+
+0 
+0  consider it a fair trade, then.  now... shall we proceed with
+0the urinabi system?  it falls inside orlok"s domain, near the irian
+0nebula.  major resources include temporite, liquid vanadium, and
+0of course, slaves.
+0 
+
+p 
+p  densely populated?
+p 
+
+0 
+0  the planet fangolor has a population of roughly two billion.
+0uz"nrab had over one billion -- until commander nurus sunk the
+0western continent.
+0 
+
+p 
+p  ah, nurus!  i remember him well.  if there ever lived a rival for
+pyour affections, it was him!
+p 
+
+0 
+0  remind me to have that idiot exterminated.
+0 
+
+p 
+p  such jealousy.  no need to worry, my love.  he"s just another
+ppiece of the galactic pie.
+p 
+
+
+d
+_
+.cpt. velasquez
+!commander osyluth
+
+! 
+!  the "vortex" is due to arrive in a matter of hours.  if talon and
+!marilith are conspiring to divide the empire between them, they"ll
+!have to destroy general orlok"s ship when it arrives.
+! 
+
+. 
+.  let me get this straight.  you expect me to save the vulture
+.overlord"s life?!
+. 
+
+! 
+!  you and i are alone now, velasquez.  there"s no one left to
+!trust.  if i can replace the overlord of vulturnus, there"s a
+!chance we can end the tyranny.  if talon and marilith destroy
+!orlok"s ship, they"ll carve up the galaxy and devour it!
+! 
+
+. 
+.  are you suggesting we vape talon and marilith?  i"d consider
+.that pretty violent behaviour... for a silatic.
+. 
+
+! 
+!  i"m not asking you to kill anyone.  once i determine the exact
+!location of the orb, you will board marilith"s ship and steal the
+!device before she has an opportunity to use it.  using the doctor"s
+!transmoleculizer, of course.
+! 
+
+. 
+.  what"s to stop marilith from opening fire with conventional weapons?
+. 
+
+! 
+!  even marilith"s not that brazen.  the destruction of the "vortex"
+!must be instantaneous.  she"ll never attain power if the overlord
+!discovers her treachery.
+! 
+
+. 
+.  you"d better be right, osyluth.  vaping silatics has become my hobby.
+. 
+
+! 
+!  your son will be safe if he stays within the sechain base.  several
+!vultures have been dispatched to find you, but they won"t bother
+!searching the base once they detect your skid moving through the
+!streets.  just stay alive long enough for me to find marilith"s orb.
+! 
+
+
+d
+`
+0general talon
+pgeneral marilith
+
+0 
+0  i have good news.  my forces have located the cyborg.  once she"s
+0been blasted into ionized bits, the last remnant of a worthless
+0culture will be eradicated!  there"s no one left to oppose us now.
+0 
+
+p 
+p  i have even better news.  the "vortex" has just entered sechain
+pspace.
+p 
+
+0 
+0  excellent.  now begins our legacy, dear marilith.  it"s time we
+0paid the overlord our final respects.  talon out.
+0 
+
+
+d
+a
+èdr. bela ramses
+pgeneral marilith
+
+p 
+p  report, doctor.
+p 
+
+è 
+è  the detonation sequence has begun.  i"m fitting the containment
+èunit with the transmoleculizer now.
+è 
+
+p 
+p  you have thirty seconds until transport.
+p 
+
+
+d
+Å
+pgeneral marilith
+vulture lt.
+
+ 
+  general, we"re receiving a coded transmission from the "vortex".
+ 
+
+p 
+p  open a vid conduit, you idiot!  quickly!
+p 
+
+Pgeneral orlok
+P 
+P  general marilith.  i bring the overlord of vulturnus.
+P 
+
+p 
+p  his arrival honors us, general orlok.  prepare to receive
+planding instructions.  marilith out.
+p 
+
+vulture lt.
+p 
+p  when orlok"s ship explodes, send a signal to vultkolor informing
+pgeneral talon of our victory.  allow him a minute to gloat, then
+pdestroy the city with a telorite spread!
+p 
+
+
+d
+b
+.cpt. velasquez
+èdr. bela ramses
+
+è 
+è  what the -- where did you come from?
+è 
+
+. 
+.  shut up and don"t move!
+. 
+
+è 
+è  you"re too late, velasquez!  once activated, the orb can"t be
+èshut off!
+è 
+
+. 
+.  that"s fine by me, squidbrain!  all i want is the transmoleculizer!
+. 
+
+è 
+è  you can"t take that!
+è 
+
+. 
+.  watch me.  so long, doctor!
+. 
+È
+è 
+è  oh shit.
+è 
+
+
+d
+c
+pgeneral marilith
+vulture lt.
+
+ 
+  five seconds until transport and detonation.
+ 
+
+ 
+  four.
+ 
+
+ 
+  three.
+ 
+
+ 
+  two.
+ 
+
+ 
+  one.
+ 
+
+ 
+  transport has been initiated.
+ 
+
+p 
+p  and a new era of conquest has begun!
+p 
+
+èdr. bela ramses
+è 
+è  general!  the cyborg managed to steal the transmoleculizer off of
+èthe orb!  she"s been transported out of here, and the orb --
+è 
+
+
+d
+d
+Pgeneral orlok
+.cpt. velasquez
+
+P 
+P  do i know you?
+P 
+
+. 
+.  the question is, general, do you want to?
+. 
+
+
+d
+e
+!commander osyluth
+0general talon
+
+0 
+0  i am returning to my ship.  prepare my shuttle for immediate takeoff.
+0 
+
+! 
+!  the shuttle is waiting, my lord.  i have taken every possible
+!security precaution to ensure your safe departure.
+! 
+
+0 
+0  notify the "nightmare" of my imminent arrival.  i place you in
+0charge of vultkolor, commander.  enjoy it while it lasts.
+0 
+
+! 
+!  i"ll endeavor to try, my lord.
+! 
+
+
+d
+f
+!commander osyluth
+ÈP 
+
+! 
+!  talon"s shuttle has left.  everything is falling into place.
+! 
+
+! 
+!  nak"zhar, numehn.  goodbye, general!  may your sabotaged shuttle
+!serve well!
+! 
+
+
+d
+g
+!commander osyluth
+Pgeneral orlok
+
+! 
+!  i see that you left the overlord aboard your ship.  very wise,
+!general orlok.  after what the splinter faction did to general 
+!talon"s shuttle... one can never be too careful.
+! 
+
+P 
+P  my condolences regarding vice-director selat.  i"ve brought
+Pthe dna sample he requested.
+P 
+
+! 
+!  i"m not interested in the overlord"s dna, general.
+! 
+
+P 
+P  i see.  you want me.
+P 
+
+! 
+!  i want you dead.  i"m not the forgiving fool selat was!  you
+!destroyed my world... my race!  you will pay dearly for the
+!destruction and decades of anguish you"ve caused!
+! 
+
+P 
+P  destroying me won"t change anything, commander!
+P 
+
+.cpt. velasquez
+. 
+.  osyluth, listen to him!  pretend for a minute you have a brain!
+. 
+
+! 
+!  you, velasquez -- you of all people should understand!  did you
+!not feel the same way about general kreel?  isn"t that why you
+!killed him?  kreel"s dead, velasquez, but he didn"t conquer my
+!planet -- this bastard did!
+! 
+
+Pgeneral orlok
+P 
+P  you don"t truly want revenge, commander.  even now, you try to
+Pdeceive us!
+P 
+
+! 
+!  be silent!
+! 
+
+P 
+P  do you honestly believe i conquered your race without first
+Punderstanding it?  silatics aren"t pacifists!  they"re manipulators!
+Ptheir very existence is based on half-truths and deception.  tell
+Pus, commander, what do you really want?
+P 
+
+! 
+!  first, general, i"m going to reduce you to ionized sludge!  then
+!i"m going to absorb your dna and take your place!
+! 
+
+P 
+P  very clever.  with the other generals gone, your ascension to the
+Poverlord"s throne would be assured.
+P 
+
+.cpt. velasquez
+. 
+.  you silatic slime!  you sabotaged talon"s shuttle and used me
+.to destroy the others!
+. 
+
+! 
+!  i knew you wouldn"t pass up the chance to rid the universe of
+!kreel and marilith.  if i had more time, i would"ve tricked you
+!into annihilating talon as well.  selat never knew quite how to
+!handle you, velasquez, but i"ve encountered your type before.
+! 
+
+Pgeneral orlok
+P 
+P  just as silatics manipulate their physical forms, so too they
+Pmanipulate those around them -- in ways they aren"t even aware of!
+P 
+
+! 
+!  don"t listen to him!  you and i are fighting a war against an
+!intractable enemy, velasquez!  i"m fighting mine the only way i can!
+! 
+
+.cpt. velasquez
+. 
+.  i ended my war.  now end yours.
+. 
+
+! 
+!  i"d rather die.
+! 
+
+. 
+.  your species taught me that violence is not the only solution.
+.many lives were lost before i learned that lesson.  listen to me,
+.osyluth.  vengeance alone is not enough, nor would it have saved
+.my son.  general orlok promises freedom for the systems under
+.vulture tyranny.  fighting him will only cost more lives!
+. 
+
+! 
+!  and you trust him?
+! 
+
+. 
+.  no.  not yet.  but to quote selat, i have faith in him.
+. 
+
+! 
+!  then you"re too stupid to live!  i will have my revenge!
+! 
+
+
+d
+i
+.cpt. velasquez
+Pgeneral orlok
+
+P 
+P  he"s gone, but he will assume another form.  silatics sometimes
+Pretain dna fragments from other creatures... in the event their
+Pcurrent disguise is revealed.
+P 
+
+. 
+.  you know them better than i do, general.  i"ll leave osyluth
+.in your hands.  i have to get to my son before someone else does.
+. 
+
+P 
+P  be careful out there...
+P 
+
+
+d
+j
+.cpt. velasquez
+vulture lt.
+
+. 
+.  this is t.d. captain velasquez.  i"ve been granted departure
+.clearance by general orlok.
+. 
+
+ 
+  permission to leave hangar granted... sechian.
+ 
+
+
+d
+k
+.cpt. velasquez
+ ,ian velasquez
+
+. 
+.  you can come out now.
+. 
+
+, 
+,  have all the vultures left?
+, 
+
+. 
+.  all the ones that matter.  come with me.  i"ve got a friend
+.you should meet.
+. 
+
+
+d
+l
+.cpt. velasquez
+Pgeneral orlok
+
+. 
+.  did the overlord accept your proposal, general?
+. 
+
+P 
+P  he has declared me his successor.  as of now, you command this
+Psystem.  i leave the warcruiser "scavenger" at your disposal.  my
+Ppeople will continue to populate your cities and the skies
+Poverhead, but only for as long as you wish it.
+P 
+
+. 
+.  and what of the other systems under vulture domination?
+. 
+
+P 
+P  the other generals will not be eager to relent, but they will.
+Pthey -- like me -- must learn to co-exist rather than conquer.
+P 
+
+. 
+.  there was a time i did not believe in peace.
+. 
+
+P 
+P  and now?
+P 
+
+. 
+.  now?  it"s a possibility...
+. 
+
+P 
+P  may your culture defy extinction, velasquez.  until we meet again.
+P 
+
+
+d
+m
+.cpt. velasquez
+ ,ian velasquez
+
+, 
+,  may i play with mala now, mother?
+, 
+
+. 
+.  yes.
+. 
+
+b.o.b.
+ 
+  i haven"t felt this g-g-good since i electrified all of my
+c-c-capacitors refitting a p-p-power c-c-conduit!  thanks for
+having me fixed, c-c-captain.
+ 
+
+. 
+.  don"t mention it.  they did a good job.  oh, and bob, call me vel.
+. 
+
+ 
+  v-v-vel??? o-k-kay.  if y-y-you insist.
+ 
+
+. 
+.  and bob?
+. 
+
+ 
+  y-y-yes??
+ 
+
+. 
+.  fix that damn stutter.
+. 
+
+
+d
