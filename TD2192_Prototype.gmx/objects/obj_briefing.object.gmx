@@ -160,6 +160,14 @@ file_text_close(file)
             <string>///Briefing Flow
 if room == rm_brief
 {
+    //Default none
+    for (var i=1;i&lt;60;i++)
+    {
+        brief[i,1] = BRIEFING.banner
+        brief[i,2] = mission_title[i]
+        brief[i,3]=BRIEFING.fin
+    }
+        
     brief[1,1] = BRIEFING.banner
     brief[1,2] = mission_title[1]
     brief[1,3] = BRIEFING.scr
@@ -171,80 +179,86 @@ if room == rm_brief
     brief[1,9] = 0
     brief[1,10] = BRIEFING.fin
     
-    brief[2,1] = BRIEFING.scr
-    brief[2,2] = asset_get_index("sprite38_TDLAB")
-    brief[2,3] = "operations coordinator's office"
-    brief[2,4] = ""
-    brief[2,5] = "later..."
-    brief[2,6] = BRIEFING.dialogue
-    brief[2,7] = 3
+    brief[2,1] = BRIEFING.banner
+    brief[2,2] = mission_title[2]
+    brief[2,3] = BRIEFING.scr
+    brief[2,4] = asset_get_index("sprite38_TDLAB")
+    brief[2,5] = "operations coordinator's office"
+    brief[2,6] = ""
+    brief[2,7] = "later..."
     brief[2,8] = BRIEFING.dialogue
-    brief[2,9] = 4
-    brief[2,10] = BRIEFING.fin
+    brief[2,9] = 3
+    brief[2,10] = BRIEFING.dialogue
+    brief[2,11] = 4
+    brief[2,12] = BRIEFING.fin
     
-    brief[3,1] = BRIEFING.scr
-    brief[3,2] = asset_get_index("sprite13_HANGAR")
-    brief[3,3] = "upper hangar"
-    brief[3,4] = "traffic department headquarters"
-    brief[3,5] = "next day"
-    brief[3,6] = BRIEFING.dialogue
-    brief[3,7] = 8
-    brief[3,8] = BRIEFING.fin
+    brief[3,1] = BRIEFING.banner
+    brief[3,2] = mission_title[3]
+    brief[3,3] = BRIEFING.scr
+    brief[3,4] = asset_get_index("sprite13_HANGAR")
+    brief[3,5] = "upper hangar"
+    brief[3,6] = "traffic department headquarters"
+    brief[3,7] = "next day"
+    brief[3,8] = BRIEFING.dialogue
+    brief[3,9] = 8
+    brief[3,10] = BRIEFING.fin
     
-    brief[4,1] = BRIEFING.scr
-    brief[4,2] = asset_get_index("sprite5_BRIEFING")
-    brief[4,3] = "Td briefing auditorium"
-    brief[4,4] = "that night"
-    brief[4,5] = ""
-    brief[4,6] = BRIEFING.dialogue
-    brief[4,7] = 12
-    brief[4,8] = BRIEFING.scr
-    brief[4,9] = asset_get_index("sprite13_HANGAR")
-    brief[4,10] = "Upper Hanger"
-    brief[4,11] = "Traffic Department Headquarters"
-    brief[4,12] = "Later"
-    brief[4,13] = BRIEFING.dialogue
-    brief[4,14] = 13
-    brief[4,15] = BRIEFING.fin
+    brief[4,1] = BRIEFING.banner
+    brief[4,2] = mission_title[4]
+    brief[4,3] = BRIEFING.scr
+    brief[4,4] = asset_get_index("sprite5_BRIEFING")
+    brief[4,5] = "Td briefing auditorium"
+    brief[4,6] = "that night"
+    brief[4,7] = ""
+    brief[4,8] = BRIEFING.dialogue
+    brief[4,9] = 12
+    brief[4,10] = BRIEFING.scr
+    brief[4,11] = asset_get_index("sprite13_HANGAR")
+    brief[4,12] = "Upper Hanger"
+    brief[4,13] = "Traffic Department Headquarters"
+    brief[4,14] = "Later"
+    brief[4,15] = BRIEFING.dialogue
+    brief[4,16] = 13
+    brief[4,17] = BRIEFING.fin
     
-    brief[5,1] = BRIEFING.scr
-    brief[5,2] = asset_get_index("sprite40_VELSROOM")
-    brief[5,3] = "Quarters of Lt. Velasquez"
-    brief[5,4] = "where she sleeps uneasily"
-    brief[5,5] = ""
-    brief[5,6] = BRIEFING.dialogue
-    brief[5,7] = 16
-    brief[5,8] = BRIEFING.scr
-    brief[5,9] = asset_get_index("sprite37_SOFFICE")
-    brief[5,10] = "commander satairs office"
-    brief[5,11] = "traffic department headquarters"
-    brief[5,12] = "5 radians later"
-    brief[5,13] = BRIEFING.dialogue
-    brief[5,14] = 17
+    brief[5,1] = BRIEFING.banner
+    brief[5,2] = mission_title[5]
+    brief[5,3] = BRIEFING.scr
+    brief[5,4] = asset_get_index("sprite40_VELSROOM")
+    brief[5,5] = "Quarters of Lt. Velasquez"
+    brief[5,6] = "where she sleeps uneasily"
+    brief[5,7] = ""
+    brief[5,8] = BRIEFING.dialogue
+    brief[5,9] = 16
+    brief[5,10] = BRIEFING.scr
+    brief[5,11] = asset_get_index("sprite37_SOFFICE")
+    brief[5,12] = "commander satairs office"
+    brief[5,13] = "traffic department headquarters"
+    brief[5,14] = "5 radians later"
     brief[5,15] = BRIEFING.dialogue
-    brief[5,16] = 18
-    brief[5,17] = BRIEFING.scr
-    brief[5,18] = asset_get_index("sprite13_HANGAR")
-    brief[5,19] = "Upper Hanger"
-    brief[5,20] = "Traffic Department Headquarters"
-    brief[5,21] = "Next Morning"
-    brief[5,22] = BRIEFING.dialogue
-    brief[5,23] = 19
-    brief[5,24] = BRIEFING.fin
-    
-    //Default none
-    for (var i=6;i&lt;=60;i++)
-        brief[i,1]=BRIEFING.fin
+    brief[5,16] = 17
+    brief[5,17] = BRIEFING.dialogue
+    brief[5,18] = 18
+    brief[5,19] = BRIEFING.scr
+    brief[5,20] = asset_get_index("sprite13_HANGAR")
+    brief[5,21] = "Upper Hanger"
+    brief[5,22] = "Traffic Department Headquarters"
+    brief[5,23] = "Next Morning"
+    brief[5,24] = BRIEFING.dialogue
+    brief[5,25] = 19
+    brief[5,26] = BRIEFING.fin
     
     /* Minimum template mission
-    brief[,1] = BRIEFING.scr
-    brief[,2] = asset_get_index("sprite13_HANGAR")
-    brief[,3] = "Line 1"
-    brief[,4] = "Line 2"
-    brief[,5] = "Line 3"
-    brief[,6] = BRIEFING.dialogue
-    brief[,7] = 1
-    brief[,8] = BRIEFING.fin
+    brief[,1] = BRIEFING.banner
+    brief[,2] = mission_title[x]
+    brief[,3] = BRIEFING.scr
+    brief[,4] = asset_get_index("sprite13_HANGAR")
+    brief[,5] = "Line 1"
+    brief[,6] = "Line 2"
+    brief[,7] = "Line 3"
+    brief[,8] = BRIEFING.dialogue
+    brief[,9] = 1
+    brief[,10] = BRIEFING.fin
     */
 }
 </string>
